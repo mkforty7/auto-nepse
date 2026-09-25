@@ -1,0 +1,39 @@
+name: rank_stocks
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  schedule:
+    # 11:00 UTC = 16:45 NPT, after NEPSE market close (Sun-Thu)
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Generate stock ranking
+        run: |
+          python rank_stocks.py
+      - name: Commit and push
+        run: |-
+          git config user.email "github-action@example.com"
+          git config user.name "github-action"
+          git diff --quiet || (git add README.md && git commit -m "Update with latest stocks")
+          git push origin HEAD:main
