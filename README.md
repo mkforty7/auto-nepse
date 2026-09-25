@@ -2,7 +2,7 @@
 
 Daily NEPSE stock screener — auto-ranks Nepal Stock Exchange stocks by undervalued fundamentals and bonus history.
 
-_Last updated: 2026-09-25 10:51 NPT · Source: merolagani.com · 307 companies ranked_
+_Last updated: 2026-09-25 11:08 NPT · Source: merolagani.com · 307 companies ranked_
 
 | Undervalued = P/E and P/BV below sector median | Ratios Summary: Strong = profitable and cheap vs sector |
 
