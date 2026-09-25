@@ -1,188 +1,317 @@
-| Symbol                                                    | Ratios Summary   | Sector                       |   LTP |   Undervalued |   Bonus % |
-|:----------------------------------------------------------|:-----------------|:-----------------------------|------:|--------------:|----------:|
-| [MEGA](https://www.nepsealpha.com/stocks/MEGA/info)       | Strong           | Commercial Banks             |   380 |             5 |  10       |
-| [JBBL](https://www.nepsealpha.com/stocks/JBBL/info)       | Strong           | Development Banks            |   586 |             5 |  10       |
-| [SIFC](https://www.nepsealpha.com/stocks/SIFC/info)       | Strong           | Finance                      |   637 |             5 |   7.37    |
-| [RLFL](https://www.nepsealpha.com/stocks/RLFL/info)       | Strong           | Finance                      |   669 |             5 |  10       |
-| [GBBL](https://www.nepsealpha.com/stocks/GBBL/info)       | Strong           | Development Banks            |   689 |             5 |  13.5     |
-| [CHCL](https://www.nepsealpha.com/stocks/CHCL/info)       | Strong           | Hydro Power                  |   705 |             5 |  10       |
-| [EIC](https://www.nepsealpha.com/stocks/EIC/info)         | Strong           | Non Life Insurance           |   800 |             5 |   8       |
-| [SLICL](https://www.nepsealpha.com/stocks/SLICL/info)     | Strong           | Life Insurance               |   939 |             5 |   5       |
-| [PLIC](https://www.nepsealpha.com/stocks/PLIC/info)       | Strong           | Life Insurance               |   978 |             5 |   7       |
-| [SLBBL](https://www.nepsealpha.com/stocks/SLBBL/info)     | Strong           | Microfinance                 |  1551 |             5 |  12.3907  |
-| [MERO](https://www.nepsealpha.com/stocks/MERO/info)       | Strong           | Microfinance                 |  1659 |             5 |  16.9399  |
-| [SADBL](https://www.nepsealpha.com/stocks/SADBL/info)     | Medium           | Development Banks            |   548 |             5 |   5       |
-| [GFCL](https://www.nepsealpha.com/stocks/GFCL/info)       | Medium           | Finance                      |   827 |             5 |   8.4     |
-| [BOKL](https://www.nepsealpha.com/stocks/BOKL/info)       | Strong           | Commercial Banks             |   396 |             4 |  13       |
-| [NIB](https://www.nepsealpha.com/stocks/NIB/info)         | Strong           | Commercial Banks             |   460 |             4 |  13       |
-| [GBIME](https://www.nepsealpha.com/stocks/GBIME/info)     | Strong           | Commercial Banks             |   487 |             4 |  14       |
-| [PCBL](https://www.nepsealpha.com/stocks/PCBL/info)       | Strong           | Commercial Banks             |   520 |             4 |  15       |
-| [NBL](https://www.nepsealpha.com/stocks/NBL/info)         | Strong           | Commercial Banks             |   550 |             4 |  12       |
-| [ADBL](https://www.nepsealpha.com/stocks/ADBL/info)       | Strong           | Commercial Banks             |   584 |             4 |  15       |
-| [SHPC](https://www.nepsealpha.com/stocks/SHPC/info)       | Strong           | Hydro Power                  |   622 |             4 |  10       |
-| [RRHP](https://www.nepsealpha.com/stocks/RRHP/info)       | Strong           | Hydro Power                  |   644 |             4 |  -1       |
-| [MLBL](https://www.nepsealpha.com/stocks/MLBL/info)       | Strong           | Development Banks            |   683 |             4 |   8.8     |
-| [SPDL](https://www.nepsealpha.com/stocks/SPDL/info)       | Strong           | Hydro Power                  |   725 |             4 |  10       |
-| [MNBBL](https://www.nepsealpha.com/stocks/MNBBL/info)     | Strong           | Development Banks            |   796 |             4 |  11.25    |
-| [PRIN](https://www.nepsealpha.com/stocks/PRIN/info)       | Strong           | Non Life Insurance           |   987 |             4 |  10       |
-| [NICL](https://www.nepsealpha.com/stocks/NICL/info)       | Strong           | Non Life Insurance           |  1009 |             4 |   8       |
-| [MFIL](https://www.nepsealpha.com/stocks/MFIL/info)       | Strong           | Finance                      |  1328 |             4 |  18       |
-| [NIL](https://www.nepsealpha.com/stocks/NIL/info)         | Strong           | Non Life Insurance           |  1455 |             4 |  15.5     |
-| [SMATA](https://www.nepsealpha.com/stocks/SMATA/info)     | Strong           | Microfinance                 |  1667 |             4 |  20       |
-| [NUBL](https://www.nepsealpha.com/stocks/NUBL/info)       | Strong           | Microfinance                 |  1717 |             4 |  13       |
-| [WOMI](https://www.nepsealpha.com/stocks/WOMI/info)       | Strong           | Microfinance                 |  1725 |             4 |  30       |
-| [DDBL](https://www.nepsealpha.com/stocks/DDBL/info)       | Strong           | Microfinance                 |  1818 |             4 |  15       |
-| [ALBSL](https://www.nepsealpha.com/stocks/ALBSL/info)     | Strong           | Microfinance                 |  1995 |             4 |  15       |
-| [SMFBS](https://www.nepsealpha.com/stocks/SMFBS/info)     | Strong           | Microfinance                 |  2605 |             4 |  20       |
-| [FOWAD](https://www.nepsealpha.com/stocks/FOWAD/info)     | Strong           | Microfinance                 |  3105 |             4 |  25       |
-| [KBL](https://www.nepsealpha.com/stocks/KBL/info)         | Medium           | Commercial Banks             |   382 |             4 |  10.85    |
-| [TRH](https://www.nepsealpha.com/stocks/TRH/info)         | Medium           | Hotels and Tourism           |   416 |             4 |   0       |
-| [SBL](https://www.nepsealpha.com/stocks/SBL/info)         | Medium           | Commercial Banks             |   564 |             4 |  12       |
-| [SHINE](https://www.nepsealpha.com/stocks/SHINE/info)     | Medium           | Development Banks            |   605 |             4 |  13       |
-| [BPCL](https://www.nepsealpha.com/stocks/BPCL/info)       | Medium           | Hydro Power                  |   634 |             4 |  10       |
-| [GMFIL](https://www.nepsealpha.com/stocks/GMFIL/info)     | Medium           | Finance                      |   648 |             4 |   8       |
-| [SIL](https://www.nepsealpha.com/stocks/SIL/info)         | Medium           | Non Life Insurance           |  1092 |             4 |  12       |
-| [NTC](https://www.nepsealpha.com/stocks/NTC/info)         | Medium           | Others                       |  1213 |             4 |   0       |
-| [CBBL](https://www.nepsealpha.com/stocks/CBBL/info)       | Medium           | Microfinance                 |  1900 |             4 |  22       |
-| [SKBBL](https://www.nepsealpha.com/stocks/SKBBL/info)     | Medium           | Microfinance                 |  1995 |             4 |  25       |
-| [SANIMA](https://www.nepsealpha.com/stocks/SANIMA/info)   | Strong           | Commercial Banks             |   535 |             3 |  10       |
-| [LBBL](https://www.nepsealpha.com/stocks/LBBL/info)       | Strong           | Development Banks            |   668 |             3 |   7       |
-| [AKPL](https://www.nepsealpha.com/stocks/AKPL/info)       | Strong           | Hydro Power                  |   729 |             3 |  17       |
-| [KPCL](https://www.nepsealpha.com/stocks/KPCL/info)       | Strong           | Hydro Power                  |   840 |             3 |  -1       |
-| [NGPL](https://www.nepsealpha.com/stocks/NGPL/info)       | Strong           | Hydro Power                  |  1194 |             3 |  20       |
-| [SIC](https://www.nepsealpha.com/stocks/SIC/info)         | Strong           | Non Life Insurance           |  1453 |             3 |  11       |
-| [NMBMF](https://www.nepsealpha.com/stocks/NMBMF/info)     | Strong           | Microfinance                 |  1539 |             3 |  19       |
-| [SDLBSL](https://www.nepsealpha.com/stocks/SDLBSL/info)   | Strong           | Microfinance                 |  1833 |             3 |  18       |
-| [BBC](https://www.nepsealpha.com/stocks/BBC/info)         | Strong           | Tradings                     |  6900 |             3 |  -1       |
-| [CCBL](https://www.nepsealpha.com/stocks/CCBL/info)       | Medium           | Commercial Banks             |   287 |             3 |   5.25    |
-| [LBL](https://www.nepsealpha.com/stocks/LBL/info)         | Medium           | Commercial Banks             |   398 |             3 |   9       |
-| [KKHC](https://www.nepsealpha.com/stocks/KKHC/info)       | Medium           | Hydro Power                  |   506 |             3 |  -1       |
-| [OHL](https://www.nepsealpha.com/stocks/OHL/info)         | Medium           | Hotels and Tourism           |   621 |             3 |   5       |
-| [API](https://www.nepsealpha.com/stocks/API/info)         | Medium           | Hydro Power                  |   640 |             3 |  10.5     |
-| [CFCL](https://www.nepsealpha.com/stocks/CFCL/info)       | Medium           | Finance                      |   692 |             3 |   7       |
-| [MDB](https://www.nepsealpha.com/stocks/MDB/info)         | Medium           | Development Banks            |   780 |             3 |  15       |
-| [KSBBL](https://www.nepsealpha.com/stocks/KSBBL/info)     | Medium           | Development Banks            |   790 |             3 |   4.4     |
-| [PICL](https://www.nepsealpha.com/stocks/PICL/info)       | Medium           | Non Life Insurance           |   816 |             3 |   8       |
-| [PIC](https://www.nepsealpha.com/stocks/PIC/info)         | Medium           | Non Life Insurance           |  1223 |             3 |   0       |
-| [GUFL](https://www.nepsealpha.com/stocks/GUFL/info)       | Medium           | Finance                      |  1224 |             3 |   7       |
-| [IGI](https://www.nepsealpha.com/stocks/IGI/info)         | Medium           | Non Life Insurance           |  1234 |             3 |   7       |
-| [GBLBS](https://www.nepsealpha.com/stocks/GBLBS/info)     | Medium           | Microfinance                 |  1332 |             3 |  -1       |
-| [LLBS](https://www.nepsealpha.com/stocks/LLBS/info)       | Medium           | Microfinance                 |  2310 |             3 |  15       |
-| [GILB](https://www.nepsealpha.com/stocks/GILB/info)       | Medium           | Microfinance                 |  2644 |             3 |  27.47    |
-| [HDL](https://www.nepsealpha.com/stocks/HDL/info)         | Medium           | Manufacturing And Processing |  7624 |             3 |  50       |
-| [ICFC](https://www.nepsealpha.com/stocks/ICFC/info)       | Weak             | Finance                      |  1038 |             3 |  10.5     |
-| [NLG](https://www.nepsealpha.com/stocks/NLG/info)         | Weak             | Non Life Insurance           |  1096 |             3 |  10       |
-| [NLBBL](https://www.nepsealpha.com/stocks/NLBBL/info)     | Weak             | Microfinance                 |  1649 |             3 |   8       |
-| [VLBS](https://www.nepsealpha.com/stocks/VLBS/info)       | Weak             | Microfinance                 |  1861 |             3 |  19       |
-| [NMB](https://www.nepsealpha.com/stocks/NMB/info)         | Medium           | Commercial Banks             |   473 |             2 |  13       |
-| [NBB](https://www.nepsealpha.com/stocks/NBB/info)         | Medium           | Commercial Banks             |   491 |             2 |   6       |
-| [UMHL](https://www.nepsealpha.com/stocks/UMHL/info)       | Medium           | Hydro Power                  |   575 |             2 |   0       |
-| [PPCL](https://www.nepsealpha.com/stocks/PPCL/info)       | Medium           | Hydro Power                  |   590 |             2 |  -1       |
-| [AHPC](https://www.nepsealpha.com/stocks/AHPC/info)       | Medium           | Hydro Power                  |   628 |             2 |   5       |
-| [PLI](https://www.nepsealpha.com/stocks/PLI/info)         | Medium           | Life Insurance               |   761 |             2 |  -1       |
-| [UIC](https://www.nepsealpha.com/stocks/UIC/info)         | Medium           | Non Life Insurance           |   762 |             2 |  10       |
-| [NRN](https://www.nepsealpha.com/stocks/NRN/info)         | Medium           | INVESTMENT                   |   880 |             2 |   2.85    |
-| [NICLBSL](https://www.nepsealpha.com/stocks/NICLBSL/info) | Medium           | Microfinance                 |  1580 |             2 |  -1       |
-| [ACLBSL](https://www.nepsealpha.com/stocks/ACLBSL/info)   | Medium           | Microfinance                 |  1668 |             2 |   8.85    |
-| [RURU](https://www.nepsealpha.com/stocks/RURU/info)       | Medium           | Hydro Power                  |  1683 |             2 |  10       |
-| [BNL](https://www.nepsealpha.com/stocks/BNL/info)         | Medium           | Manufacturing And Processing |  1904 |             2 |   0       |
-| [MMFDB](https://www.nepsealpha.com/stocks/MMFDB/info)     | Medium           | Microfinance                 |  1917 |             2 |  20       |
-| [SABSL](https://www.nepsealpha.com/stocks/SABSL/info)     | Medium           | Microfinance                 |  2109 |             2 |  10.5     |
-| [USLB](https://www.nepsealpha.com/stocks/USLB/info)       | Medium           | MICROFINANCE                 |  2225 |             2 |  17.8104  |
-| [MLBBL](https://www.nepsealpha.com/stocks/MLBBL/info)     | Medium           | Microfinance                 |  2245 |             2 |  12       |
-| [SHL](https://www.nepsealpha.com/stocks/SHL/info)         | Weak             | Hotels and Tourism           |   281 |             2 |  15       |
-| [CBL](https://www.nepsealpha.com/stocks/CBL/info)         | Weak             | Commercial Banks             |   285 |             2 |   8       |
-| [NCCB](https://www.nepsealpha.com/stocks/NCCB/info)       | Weak             | Commercial Banks             |   361 |             2 |  10.2695  |
-| [SRBL](https://www.nepsealpha.com/stocks/SRBL/info)       | Weak             | Commercial Banks             |   375 |             2 |   5.8     |
-| [CZBIL](https://www.nepsealpha.com/stocks/CZBIL/info)     | Weak             | Commercial Banks             |   406 |             2 |   8       |
-| [MBL](https://www.nepsealpha.com/stocks/MBL/info)         | Weak             | Commercial Banks             |   424 |             2 |   7.03    |
-| [PMHPL](https://www.nepsealpha.com/stocks/PMHPL/info)     | Weak             | Hydro Power                  |   440 |             2 |  -1       |
-| [NIFRA](https://www.nepsealpha.com/stocks/NIFRA/info)     | Weak             | INVESTMENT                   |   456 |             2 |  -1       |
-| [PRVU](https://www.nepsealpha.com/stocks/PRVU/info)       | Weak             | Commercial Banks             |   469 |             2 |  10       |
-| [KRBL](https://www.nepsealpha.com/stocks/KRBL/info)       | Weak             | Development Banks            |   505 |             2 |   8       |
-| [SJCL](https://www.nepsealpha.com/stocks/SJCL/info)       | Weak             | Hydro Power                  |   507 |             2 |  -1       |
-| [LEC](https://www.nepsealpha.com/stocks/LEC/info)         | Weak             | Hydropower                   |   509 |             2 |  -1       |
-| [RHPL](https://www.nepsealpha.com/stocks/RHPL/info)       | Weak             | Hydro Power                  |   512 |             2 |  -1       |
-| [PROFL](https://www.nepsealpha.com/stocks/PROFL/info)     | Weak             | Finance                      |   520 |             2 |  -1       |
-| [GHL](https://www.nepsealpha.com/stocks/GHL/info)         | Weak             | Hydro Power                  |   521 |             2 |  -1       |
-| [SINDU](https://www.nepsealpha.com/stocks/SINDU/info)     | Weak             | Development Banks            |   575 |             2 |  11.4851  |
-| [JFL](https://www.nepsealpha.com/stocks/JFL/info)         | Weak             | Finance                      |   672 |             2 |  22       |
-| [BARUN](https://www.nepsealpha.com/stocks/BARUN/info)     | Weak             | Hydro Power                  |   694 |             2 |   5       |
-| [LGIL](https://www.nepsealpha.com/stocks/LGIL/info)       | Weak             | Non Life Insurance           |   869 |             2 |   5       |
-| [RADHI](https://www.nepsealpha.com/stocks/RADHI/info)     | Weak             | Hydro Power                  |   931 |             2 |  36.5     |
-| [NICA](https://www.nepsealpha.com/stocks/NICA/info)       | Weak             | Commercial Banks             |   973 |             2 |  19       |
-| [RSDC](https://www.nepsealpha.com/stocks/RSDC/info)       | Weak             | Microfinance                 |  1164 |             2 |   9       |
-| [NLICL](https://www.nepsealpha.com/stocks/NLICL/info)     | Weak             | Life Insurance               |  1190 |             2 |  10       |
-| [FMDBL](https://www.nepsealpha.com/stocks/FMDBL/info)     | Weak             | Microfinance                 |  1316 |             2 |   9.5     |
-| [ALICL](https://www.nepsealpha.com/stocks/ALICL/info)     | Weak             | Life Insurance               |  1394 |             2 |   4       |
-| [SLBSL](https://www.nepsealpha.com/stocks/SLBSL/info)     | Weak             | Microfinance                 |  1581 |             2 |  32       |
-| [CLBSL](https://www.nepsealpha.com/stocks/CLBSL/info)     | Weak             | Microfinance                 |  1595 |             2 |   3.5     |
-| [SHIVM](https://www.nepsealpha.com/stocks/SHIVM/info)     | Weak             | Manufacturing And Processing |  1630 |             2 |   0       |
-| [KLBSL](https://www.nepsealpha.com/stocks/KLBSL/info)     | Weak             | Microfinance                 |  1711 |             2 |  -1       |
-| [GMFBS](https://www.nepsealpha.com/stocks/GMFBS/info)     | Weak             | Microfinance                 |  1740 |             2 |  15       |
-| [RMDC](https://www.nepsealpha.com/stocks/RMDC/info)       | Weak             | Microfinance                 |  1775 |             2 |  15       |
-| [SNLB](https://www.nepsealpha.com/stocks/SNLB/info)       | Weak             | Microfinance                 |  1795 |             2 |   8.12    |
-| [NLIC](https://www.nepsealpha.com/stocks/NLIC/info)       | Weak             | Life Insurance               |  1900 |             2 |  31       |
-| [SWBBL](https://www.nepsealpha.com/stocks/SWBBL/info)     | Weak             | Microfinance                 |  1910 |             2 |  19.0057  |
-| [ILBS](https://www.nepsealpha.com/stocks/ILBS/info)       | Weak             | Microfinance                 |  1936 |             2 |  14.25    |
-| [SICL](https://www.nepsealpha.com/stocks/SICL/info)       | Weak             | Non Life Insurance           |  1982 |             2 |  27.769   |
-| [LICN](https://www.nepsealpha.com/stocks/LICN/info)       | Weak             | Life Insurance               |  2346 |             2 |  10       |
-| [SMB](https://www.nepsealpha.com/stocks/SMB/info)         | Weak             | Microfinance                 |  2725 |             2 |  10       |
-| [CIT](https://www.nepsealpha.com/stocks/CIT/info)         | Weak             | INVESTMENT                   |  4060 |             2 |   9       |
-| [STC](https://www.nepsealpha.com/stocks/STC/info)         | Weak             | Tradings                     |  9850 |             2 |  20       |
-| [RLI](https://www.nepsealpha.com/stocks/RLI/info)         | Medium           | Life Insurance               |   681 |             1 |  -1       |
-| [RHPC](https://www.nepsealpha.com/stocks/RHPC/info)       | Medium           | Hydro Power                  |   974 |             1 |   5       |
-| [NRIC](https://www.nepsealpha.com/stocks/NRIC/info)       | Medium           | Others                       |  1580 |             1 |  16.5     |
-| [MSLB](https://www.nepsealpha.com/stocks/MSLB/info)       | Medium           | Microfinance                 |  2245 |             1 |  20       |
-| [SBI](https://www.nepsealpha.com/stocks/SBI/info)         | Weak             | Commercial Banks             |   401 |             1 |   6       |
-| [DHPL](https://www.nepsealpha.com/stocks/DHPL/info)       | Weak             | Hydro Power                  |   441 |             1 |  -1       |
-| [NHPC](https://www.nepsealpha.com/stocks/NHPC/info)       | Weak             | Hydro Power                  |   483 |             1 |  -1       |
-| [GRDBL](https://www.nepsealpha.com/stocks/GRDBL/info)     | Weak             | Development Banks            |   489 |             1 |   3.8     |
-| [SAPDBL](https://www.nepsealpha.com/stocks/SAPDBL/info)   | Weak             | Development Banks            |   493 |             1 |   6       |
-| [SSHL](https://www.nepsealpha.com/stocks/SSHL/info)       | Weak             | Hydropower                   |   505 |             1 |  -1       |
-| [UNHPL](https://www.nepsealpha.com/stocks/UNHPL/info)     | Weak             | Hydro Power                  |   560 |             1 |  -1       |
-| [BFC](https://www.nepsealpha.com/stocks/BFC/info)         | Weak             | Finance                      |   569 |             1 |  20       |
-| [HIDCL](https://www.nepsealpha.com/stocks/HIDCL/info)     | Weak             | INVESTMENT                   |   575 |             1 |   0       |
-| [UPCL](https://www.nepsealpha.com/stocks/UPCL/info)       | Weak             | Hydro Power                  |   586 |             1 |  -1       |
-| [SHEL](https://www.nepsealpha.com/stocks/SHEL/info)       | Weak             | Hydro Power                  |   595 |             1 |  -1       |
-| [MPFL](https://www.nepsealpha.com/stocks/MPFL/info)       | Weak             | Finance                      |   610 |             1 |  12       |
-| [CHL](https://www.nepsealpha.com/stocks/CHL/info)         | Weak             | Hydro Power                  |   679 |             1 |   5       |
-| [MHNL](https://www.nepsealpha.com/stocks/MHNL/info)       | Weak             | Hydro Power                  |   685 |             1 |  -1       |
-| [UMRH](https://www.nepsealpha.com/stocks/UMRH/info)       | Weak             | Hydropower                   |   738 |             1 |  -1       |
-| [JLI](https://www.nepsealpha.com/stocks/JLI/info)         | Weak             | Life Insurance               |   746 |             1 |  -1       |
-| [NFS](https://www.nepsealpha.com/stocks/NFS/info)         | Weak             | Finance                      |   750 |             1 |  22       |
-| [GLICL](https://www.nepsealpha.com/stocks/GLICL/info)     | Weak             | Life Insurance               |   768 |             1 |   5.50042 |
-| [PFL](https://www.nepsealpha.com/stocks/PFL/info)         | Weak             | Finance                      |   791 |             1 |   5       |
-| [NHDL](https://www.nepsealpha.com/stocks/NHDL/info)       | Weak             | Hydro Power                  |   797 |             1 |  15       |
-| [UPPER](https://www.nepsealpha.com/stocks/UPPER/info)     | Weak             | Hydro Power                  |   802 |             1 |  -1       |
-| [HGI](https://www.nepsealpha.com/stocks/HGI/info)         | Weak             | Non Life Insurance           |   832 |             1 |   3       |
-| [NABBC](https://www.nepsealpha.com/stocks/NABBC/info)     | Weak             | Development Banks            |   948 |             1 |  -1       |
-| [EDBL](https://www.nepsealpha.com/stocks/EDBL/info)       | Weak             | Development Banks            |  1119 |             1 |  12       |
-| [MEN](https://www.nepsealpha.com/stocks/MEN/info)         | Weak             | Hydropower                   |  1408 |             1 |  -1       |
-| [KMCDB](https://www.nepsealpha.com/stocks/KMCDB/info)     | Weak             | Microfinance                 |  1472 |             1 |  10       |
-| [NABIL](https://www.nepsealpha.com/stocks/NABIL/info)     | Weak             | Commercial Banks             |  1495 |             1 |  33.5     |
-| [CGH](https://www.nepsealpha.com/stocks/CGH/info)         | Weak             | Hotels and Tourism           |  1499 |             1 |  -1       |
-| [SLBS](https://www.nepsealpha.com/stocks/SLBS/info)       | Weak             | Microfinance                 |  1860 |             1 |  15.3458  |
-| [NMFBS](https://www.nepsealpha.com/stocks/NMFBS/info)     | Weak             | Microfinance                 |  3457 |             1 |  21       |
-| [JSLBB](https://www.nepsealpha.com/stocks/JSLBB/info)     | Weak             | Microfinance                 |  3556 |             1 |  49.4     |
-| [MLBSL](https://www.nepsealpha.com/stocks/MLBSL/info)     | Weak             | Microfinance                 |  5009 |             1 |  -1       |
-| [BNT](https://www.nepsealpha.com/stocks/BNT/info)         | Weak             | Manufacturing And Processing | 10890 |             1 |   0       |
-| [UNL](https://www.nepsealpha.com/stocks/UNL/info)         | Medium           | Manufacturing And Processing | 20090 |             0 |   0       |
-| [HDHPC](https://www.nepsealpha.com/stocks/HDHPC/info)     | Weak             | Hydro Power                  |   440 |             0 |  -1       |
-| [AKJCL](https://www.nepsealpha.com/stocks/AKJCL/info)     | Weak             | Hydro Power                  |   448 |             0 |  -1       |
-| [JOSHI](https://www.nepsealpha.com/stocks/JOSHI/info)     | Weak             | Hydro Power                  |   463 |             0 |  -1       |
-| [SCB](https://www.nepsealpha.com/stocks/SCB/info)         | Weak             | Commercial Banks             |   579 |             0 |   7       |
-| [GLH](https://www.nepsealpha.com/stocks/GLH/info)         | Weak             | Hydro Power                  |   633 |             0 |  -1       |
-| [HURJA](https://www.nepsealpha.com/stocks/HURJA/info)     | Weak             | Hydro Power                  |   640 |             0 |  -1       |
-| [SFCL](https://www.nepsealpha.com/stocks/SFCL/info)       | Weak             | Finance                      |   660 |             0 |  -1       |
-| [HPPL](https://www.nepsealpha.com/stocks/HPPL/info)       | Weak             | Hydro Power                  |   705 |             0 |  -1       |
-| [GIC](https://www.nepsealpha.com/stocks/GIC/info)         | Weak             | Nonlife Insurance            |   705 |             0 |  -1       |
-| [SGI](https://www.nepsealpha.com/stocks/SGI/info)         | Weak             | Nonlife Insurance            |   733 |             0 |  -1       |
-| [EBL](https://www.nepsealpha.com/stocks/EBL/info)         | Weak             | Commercial Banks             |   754 |             0 |   5       |
-| [ULI](https://www.nepsealpha.com/stocks/ULI/info)         | Weak             | Life Insurance               |   799 |             0 |  -1       |
-| [AIL](https://www.nepsealpha.com/stocks/AIL/info)         | Weak             | Non Life Insurance           |   823 |             0 |  -1       |
-| [CORBL](https://www.nepsealpha.com/stocks/CORBL/info)     | Weak             | Development Banks            |  1052 |             0 |  -1       |
-| [CHDC](https://www.nepsealpha.com/stocks/CHDC/info)       | Weak             | INVESTMENT                   |  1142 |             0 |  -1       |
-| [SMFDB](https://www.nepsealpha.com/stocks/SMFDB/info)     | Weak             | Microfinance                 |  1655 |             0 |  21.09    |
-| [GLBSL](https://www.nepsealpha.com/stocks/GLBSL/info)     | Weak             | Microfinance                 |  1925 |             0 |   7.61    |
-| [RBCL](https://www.nepsealpha.com/stocks/RBCL/info)       | Weak             | Non Life Insurance           | 20300 |             0 | 114.27    |
+# auto-nepse
+
+Daily NEPSE stock screener — auto-ranks Nepal Stock Exchange stocks by undervalued fundamentals and bonus history.
+
+_Last updated: 2026-09-25 10:51 NPT · Source: merolagani.com · 307 companies ranked_
+
+| Undervalued = P/E and P/BV below sector median | Ratios Summary: Strong = profitable and cheap vs sector |
+
+| Symbol                                                                | Ratios Summary   | Sector                       |      LTP |   Undervalued |   Bonus % |
+|:----------------------------------------------------------------------|:-----------------|:-----------------------------|---------:|--------------:|----------:|
+| [BHL](https://merolagani.com/CompanyDetail.aspx?symbol=BHL)           | Strong           | Hydro Power                  |   212.2  |             2 |     -1    |
+| [CZBIL](https://merolagani.com/CompanyDetail.aspx?symbol=CZBIL)       | Strong           | Commercial Banks             |   213.4  |             2 |      3.8  |
+| [KBL](https://merolagani.com/CompanyDetail.aspx?symbol=KBL)           | Strong           | Commercial Banks             |   226    |             2 |      6    |
+| [GBIME](https://merolagani.com/CompanyDetail.aspx?symbol=GBIME)       | Strong           | Commercial Banks             |   243.8  |             2 |      4    |
+| [MHNL](https://merolagani.com/CompanyDetail.aspx?symbol=MHNL)         | Strong           | Hydro Power                  |   252    |             2 |     -1    |
+| [NIFRA](https://merolagani.com/CompanyDetail.aspx?symbol=NIFRA)       | Strong           | Investment                   |   253    |             2 |      8    |
+| [HURJA](https://merolagani.com/CompanyDetail.aspx?symbol=HURJA)       | Strong           | Hydro Power                  |   257    |             2 |     -1    |
+| [NLO](https://merolagani.com/CompanyDetail.aspx?symbol=NLO)           | Strong           | Manufacturing And Processing |   271.3  |             2 |     15    |
+| [NBL](https://merolagani.com/CompanyDetail.aspx?symbol=NBL)           | Strong           | Commercial Banks             |   292    |             2 |      2    |
+| [MHCL](https://merolagani.com/CompanyDetail.aspx?symbol=MHCL)         | Strong           | Hydro Power                  |   296    |             2 |     -1    |
+| [SGHC](https://merolagani.com/CompanyDetail.aspx?symbol=SGHC)         | Strong           | Hydro Power                  |   298    |             2 |     -1    |
+| [SHEL](https://merolagani.com/CompanyDetail.aspx?symbol=SHEL)         | Strong           | Hydro Power                  |   302.3  |             2 |     -1    |
+| [PMHPL](https://merolagani.com/CompanyDetail.aspx?symbol=PMHPL)       | Strong           | Hydro Power                  |   309    |             2 |     -1    |
+| [API](https://merolagani.com/CompanyDetail.aspx?symbol=API)           | Strong           | Hydro Power                  |   334.8  |             2 |      5    |
+| [PPCL](https://merolagani.com/CompanyDetail.aspx?symbol=PPCL)         | Strong           | Hydro Power                  |   335    |             2 |     -1    |
+| [MNBBL](https://merolagani.com/CompanyDetail.aspx?symbol=MNBBL)       | Strong           | Development Bank Limited     |   337    |             2 |     13.53 |
+| [JBBL](https://merolagani.com/CompanyDetail.aspx?symbol=JBBL)         | Strong           | Development Bank Limited     |   351.9  |             2 |     -1    |
+| [CHCL](https://merolagani.com/CompanyDetail.aspx?symbol=CHCL)         | Strong           | Hydro Power                  |   352    |             2 |      8    |
+| [MMKJL](https://merolagani.com/CompanyDetail.aspx?symbol=MMKJL)       | Strong           | Hydro Power                  |   361    |             2 |     -1    |
+| [TPC](https://merolagani.com/CompanyDetail.aspx?symbol=TPC)           | Strong           | Hydro Power                  |   365    |             2 |     -1    |
+| [SRLI](https://merolagani.com/CompanyDetail.aspx?symbol=SRLI)         | Strong           | Life Insurance               |   373.8  |             2 |     -1    |
+| [HPPL](https://merolagani.com/CompanyDetail.aspx?symbol=HPPL)         | Strong           | Hydro Power                  |   380    |             2 |     -1    |
+| [SADBL](https://merolagani.com/CompanyDetail.aspx?symbol=SADBL)       | Strong           | Development Bank Limited     |   404.5  |             2 |      4    |
+| [MAKAR](https://merolagani.com/CompanyDetail.aspx?symbol=MAKAR)       | Strong           | Hydro Power                  |   410.9  |             2 |     -1    |
+| [SJLIC](https://merolagani.com/CompanyDetail.aspx?symbol=SJLIC)       | Strong           | Life Insurance               |   415    |             2 |     -1    |
+| [SNLI](https://merolagani.com/CompanyDetail.aspx?symbol=SNLI)         | Strong           | Life Insurance               |   421    |             2 |     -1    |
+| [ILI](https://merolagani.com/CompanyDetail.aspx?symbol=ILI)           | Strong           | Life Insurance               |   428    |             2 |     -1    |
+| [SHINE](https://merolagani.com/CompanyDetail.aspx?symbol=SHINE)       | Strong           | Development Bank Limited     |   433    |             2 |      6    |
+| [BHDC](https://merolagani.com/CompanyDetail.aspx?symbol=BHDC)         | Strong           | Hydro Power                  |   433.4  |             2 |      5    |
+| [SONA](https://merolagani.com/CompanyDetail.aspx?symbol=SONA)         | Strong           | Manufacturing And Processing |   434.9  |             2 |     -1    |
+| [RNLI](https://merolagani.com/CompanyDetail.aspx?symbol=RNLI)         | Strong           | Life Insurance               |   438.1  |             2 |     -1    |
+| [CLI](https://merolagani.com/CompanyDetail.aspx?symbol=CLI)           | Strong           | Life Insurance               |   440    |             2 |     -1    |
+| [KSBBL](https://merolagani.com/CompanyDetail.aspx?symbol=KSBBL)       | Strong           | Development Bank Limited     |   448    |             2 |     10    |
+| [GBBL](https://merolagani.com/CompanyDetail.aspx?symbol=GBBL)         | Strong           | Development Bank Limited     |   454    |             2 |     10    |
+| [MHL](https://merolagani.com/CompanyDetail.aspx?symbol=MHL)           | Strong           | Hydro Power                  |   457    |             2 |     -1    |
+| [KPCL](https://merolagani.com/CompanyDetail.aspx?symbol=KPCL)         | Strong           | Hydro Power                  |   467    |             2 |      7    |
+| [HEI](https://merolagani.com/CompanyDetail.aspx?symbol=HEI)           | Strong           | Non-Life Insurance           |   473    |             2 |     -1    |
+| [LBBL](https://merolagani.com/CompanyDetail.aspx?symbol=LBBL)         | Strong           | Development Bank Limited     |   484.4  |             2 |     -1    |
+| [GVL](https://merolagani.com/CompanyDetail.aspx?symbol=GVL)           | Strong           | Hydro Power                  |   489.3  |             2 |     10    |
+| [GUFL](https://merolagani.com/CompanyDetail.aspx?symbol=GUFL)         | Strong           | Finance                      |   496.4  |             2 |      7    |
+| [NMLBBL](https://merolagani.com/CompanyDetail.aspx?symbol=NMLBBL)     | Strong           | Microfinance                 |   509    |             2 |     -1    |
+| [NIL](https://merolagani.com/CompanyDetail.aspx?symbol=NIL)           | Strong           | Non-Life Insurance           |   529.8  |             2 |      3    |
+| [SALICO](https://merolagani.com/CompanyDetail.aspx?symbol=SALICO)     | Strong           | Non-Life Insurance           |   533    |             2 |     -1    |
+| [GFCL](https://merolagani.com/CompanyDetail.aspx?symbol=GFCL)         | Strong           | Finance                      |   577    |             2 |     -1    |
+| [ICFC](https://merolagani.com/CompanyDetail.aspx?symbol=ICFC)         | Strong           | Finance                      |   595    |             2 |     -1    |
+| [NMBMF](https://merolagani.com/CompanyDetail.aspx?symbol=NMBMF)       | Strong           | Microfinance                 |   612.8  |             2 |     -1    |
+| [SWMF](https://merolagani.com/CompanyDetail.aspx?symbol=SWMF)         | Strong           | Microfinance                 |   617    |             2 |     -1    |
+| [VLBS](https://merolagani.com/CompanyDetail.aspx?symbol=VLBS)         | Strong           | Microfinance                 |   624.2  |             2 |     -1    |
+| [KDL](https://merolagani.com/CompanyDetail.aspx?symbol=KDL)           | Strong           | Hotels And Tourism           |   629.8  |             2 |      8.5  |
+| [GBLBS](https://merolagani.com/CompanyDetail.aspx?symbol=GBLBS)       | Strong           | Microfinance                 |   692    |             2 |     -1    |
+| [SAHAS](https://merolagani.com/CompanyDetail.aspx?symbol=SAHAS)       | Strong           | Hydro Power                  |   694.2  |             2 |     21    |
+| [NADEP](https://merolagani.com/CompanyDetail.aspx?symbol=NADEP)       | Strong           | Microfinance                 |   695    |             2 |     -1    |
+| [SHIVM](https://merolagani.com/CompanyDetail.aspx?symbol=SHIVM)       | Strong           | Manufacturing And Processing |   702    |             2 |      2.5  |
+| [SWBBL](https://merolagani.com/CompanyDetail.aspx?symbol=SWBBL)       | Strong           | Microfinance                 |   703.3  |             2 |      5.64 |
+| [SMPDA](https://merolagani.com/CompanyDetail.aspx?symbol=SMPDA)       | Strong           | Microfinance                 |   750    |             2 |     -1    |
+| [SARBTM](https://merolagani.com/CompanyDetail.aspx?symbol=SARBTM)     | Strong           | Manufacturing And Processing |   825.7  |             2 |      5    |
+| [KMCDB](https://merolagani.com/CompanyDetail.aspx?symbol=KMCDB)       | Strong           | Microfinance                 |   828    |             2 |     10    |
+| [DDBL](https://merolagani.com/CompanyDetail.aspx?symbol=DDBL)         | Strong           | Microfinance                 |   861    |             2 |     10    |
+| [HLBSL](https://merolagani.com/CompanyDetail.aspx?symbol=HLBSL)       | Strong           | Microfinance                 |   869    |             2 |      6.65 |
+| [FOWAD](https://merolagani.com/CompanyDetail.aspx?symbol=FOWAD)       | Strong           | Microfinance                 |   900    |             2 |     -1    |
+| [NTC](https://merolagani.com/CompanyDetail.aspx?symbol=NTC)           | Strong           | Others                       |   906    |             2 |     20    |
+| [CBBL](https://merolagani.com/CompanyDetail.aspx?symbol=CBBL)         | Strong           | Microfinance                 |   956.8  |             2 |     12.5  |
+| [GILB](https://merolagani.com/CompanyDetail.aspx?symbol=GILB)         | Strong           | Microfinance                 |  1139.5  |             2 |      4.75 |
+| [NMFBS](https://merolagani.com/CompanyDetail.aspx?symbol=NMFBS)       | Strong           | Microfinance                 |  1200    |             2 |     14.25 |
+| [JBLB](https://merolagani.com/CompanyDetail.aspx?symbol=JBLB)         | Strong           | Microfinance                 |  1278.8  |             2 |     14    |
+| [NESDO](https://merolagani.com/CompanyDetail.aspx?symbol=NESDO)       | Strong           | Microfinance                 |  1357.9  |             2 |     -1    |
+| [CYCL](https://merolagani.com/CompanyDetail.aspx?symbol=CYCL)         | Strong           | Microfinance                 |  1630    |             2 |     -1    |
+| [BNT](https://merolagani.com/CompanyDetail.aspx?symbol=BNT)           | Strong           | Manufacturing And Processing | 12001    |             2 |     -1    |
+| [NMB](https://merolagani.com/CompanyDetail.aspx?symbol=NMB)           | Strong           | Commercial Banks             |   257.1  |             1 |      5    |
+| [SMH](https://merolagani.com/CompanyDetail.aspx?symbol=SMH)           | Strong           | Hydro Power                  |   518    |             1 |     20    |
+| [SPIL](https://merolagani.com/CompanyDetail.aspx?symbol=SPIL)         | Strong           | Non-Life Insurance           |   623    |             1 |     -1    |
+| [SLBBL](https://merolagani.com/CompanyDetail.aspx?symbol=SLBBL)       | Strong           | Microfinance                 |   822    |             1 |     14.25 |
+| [CIT](https://merolagani.com/CompanyDetail.aspx?symbol=CIT)           | Strong           | Investment                   |  1747    |             1 |      5    |
+| [RSML](https://merolagani.com/CompanyDetail.aspx?symbol=RSML)         | Strong           | Manufacturing And Processing |  2754    |             1 |     -1    |
+| [STC](https://merolagani.com/CompanyDetail.aspx?symbol=STC)           | Strong           | Tradings                     |  5563    |             1 |     10    |
+| [UPPER](https://merolagani.com/CompanyDetail.aspx?symbol=UPPER)       | Medium           | Hydro Power                  |   193.3  |             1 |     -1    |
+| [NIMB](https://merolagani.com/CompanyDetail.aspx?symbol=NIMB)         | Medium           | Commercial Banks             |   194.6  |             1 |     -1    |
+| [HBL](https://merolagani.com/CompanyDetail.aspx?symbol=HBL)           | Medium           | Commercial Banks             |   195.5  |             1 |     -1    |
+| [SJCL](https://merolagani.com/CompanyDetail.aspx?symbol=SJCL)         | Medium           | Hydro Power                  |   247.9  |             1 |     -1    |
+| [AKPL](https://merolagani.com/CompanyDetail.aspx?symbol=AKPL)         | Medium           | Hydro Power                  |   253    |             1 |     -1    |
+| [LEC](https://merolagani.com/CompanyDetail.aspx?symbol=LEC)           | Medium           | Hydro Power                  |   254.8  |             1 |     -1    |
+| [HIDCL](https://merolagani.com/CompanyDetail.aspx?symbol=HIDCL)       | Medium           | Investment                   |   256    |             1 |      1.5  |
+| [PCBL](https://merolagani.com/CompanyDetail.aspx?symbol=PCBL)         | Medium           | Commercial Banks             |   257    |             1 |      8    |
+| [MBL](https://merolagani.com/CompanyDetail.aspx?symbol=MBL)           | Medium           | Commercial Banks             |   258.5  |             1 |      3    |
+| [DORDI](https://merolagani.com/CompanyDetail.aspx?symbol=DORDI)       | Medium           | Hydro Power                  |   263    |             1 |     -1    |
+| [AHPC](https://merolagani.com/CompanyDetail.aspx?symbol=AHPC)         | Medium           | Hydro Power                  |   266.9  |             1 |      5    |
+| [CHL](https://merolagani.com/CompanyDetail.aspx?symbol=CHL)           | Medium           | Hydro Power                  |   267    |             1 |      5    |
+| [DHPL](https://merolagani.com/CompanyDetail.aspx?symbol=DHPL)         | Medium           | Hydro Power                  |   275    |             1 |     -1    |
+| [BNHC](https://merolagani.com/CompanyDetail.aspx?symbol=BNHC)         | Medium           | Hydro Power                  |   278.5  |             1 |     -1    |
+| [GLH](https://merolagani.com/CompanyDetail.aspx?symbol=GLH)           | Medium           | Hydro Power                  |   278.8  |             1 |     -1    |
+| [MBJC](https://merolagani.com/CompanyDetail.aspx?symbol=MBJC)         | Medium           | Hydro Power                  |   295.9  |             1 |     -1    |
+| [HLI](https://merolagani.com/CompanyDetail.aspx?symbol=HLI)           | Medium           | Life Insurance               |   309.2  |             1 |     14    |
+| [ADBL](https://merolagani.com/CompanyDetail.aspx?symbol=ADBL)         | Medium           | Commercial Banks             |   313    |             1 |      3.25 |
+| [PHCL](https://merolagani.com/CompanyDetail.aspx?symbol=PHCL)         | Medium           | Hydro Power                  |   319.6  |             1 |     -1    |
+| [BARUN](https://merolagani.com/CompanyDetail.aspx?symbol=BARUN)       | Medium           | Hydro Power                  |   326    |             1 |      4.75 |
+| [MKJC](https://merolagani.com/CompanyDetail.aspx?symbol=MKJC)         | Medium           | Hydro Power                  |   329.3  |             1 |      2.22 |
+| [UPCL](https://merolagani.com/CompanyDetail.aspx?symbol=UPCL)         | Medium           | Hydro Power                  |   336    |             1 |      9    |
+| [RFPL](https://merolagani.com/CompanyDetail.aspx?symbol=RFPL)         | Medium           | Hydro Power                  |   336    |             1 |     -1    |
+| [HHL](https://merolagani.com/CompanyDetail.aspx?symbol=HHL)           | Medium           | Hydro Power                  |   342    |             1 |     -1    |
+| [PFL](https://merolagani.com/CompanyDetail.aspx?symbol=PFL)           | Medium           | Finance                      |   351    |             1 |     -1    |
+| [MLBL](https://merolagani.com/CompanyDetail.aspx?symbol=MLBL)         | Medium           | Development Bank Limited     |   356.2  |             1 |      5    |
+| [AKJCL](https://merolagani.com/CompanyDetail.aspx?symbol=AKJCL)       | Medium           | Hydro Power                  |   358    |             1 |     -1    |
+| [SPDL](https://merolagani.com/CompanyDetail.aspx?symbol=SPDL)         | Medium           | Hydro Power                  |   358.9  |             1 |     10    |
+| [UNHPL](https://merolagani.com/CompanyDetail.aspx?symbol=UNHPL)       | Medium           | Hydro Power                  |   359    |             1 |     -1    |
+| [SANIMA](https://merolagani.com/CompanyDetail.aspx?symbol=SANIMA)     | Medium           | Commercial Banks             |   368    |             1 |     -1    |
+| [UAIL](https://merolagani.com/CompanyDetail.aspx?symbol=UAIL)         | Medium           | Non-Life Insurance           |   371.9  |             1 |      4.29 |
+| [SGIC](https://merolagani.com/CompanyDetail.aspx?symbol=SGIC)         | Medium           | Non-Life Insurance           |   385.1  |             1 |      5    |
+| [VLUCL](https://merolagani.com/CompanyDetail.aspx?symbol=VLUCL)       | Medium           | Hydro Power                  |   389.9  |             1 |     -1    |
+| [IGI](https://merolagani.com/CompanyDetail.aspx?symbol=IGI)           | Medium           | Non-Life Insurance           |   393    |             1 |     -1    |
+| [SPC](https://merolagani.com/CompanyDetail.aspx?symbol=SPC)           | Medium           | Hydro Power                  |   397.1  |             1 |     -1    |
+| [NGPL](https://merolagani.com/CompanyDetail.aspx?symbol=NGPL)         | Medium           | Hydro Power                  |   403    |             1 |      4.75 |
+| [SMJC](https://merolagani.com/CompanyDetail.aspx?symbol=SMJC)         | Medium           | Hydro Power                  |   412    |             1 |      4.75 |
+| [RAWA](https://merolagani.com/CompanyDetail.aspx?symbol=RAWA)         | Medium           | Hydro Power                  |   416    |             1 |     -1    |
+| [GMFIL](https://merolagani.com/CompanyDetail.aspx?symbol=GMFIL)       | Medium           | Finance                      |   421    |             1 |     -1    |
+| [PMLI](https://merolagani.com/CompanyDetail.aspx?symbol=PMLI)         | Medium           | Life Insurance               |   423    |             1 |      4    |
+| [RLFL](https://merolagani.com/CompanyDetail.aspx?symbol=RLFL)         | Medium           | Finance                      |   424    |             1 |     -1    |
+| [SBL](https://merolagani.com/CompanyDetail.aspx?symbol=SBL)           | Medium           | Commercial Banks             |   456.8  |             1 |     10    |
+| [SMHL](https://merolagani.com/CompanyDetail.aspx?symbol=SMHL)         | Medium           | Hydro Power                  |   470    |             1 |     15    |
+| [SIFC](https://merolagani.com/CompanyDetail.aspx?symbol=SIFC)         | Medium           | Finance                      |   480.3  |             1 |     -1    |
+| [SGHL](https://merolagani.com/CompanyDetail.aspx?symbol=SGHL)         | Medium           | Hydro Power                  |   486.5  |             1 |     -1    |
+| [BGWT](https://merolagani.com/CompanyDetail.aspx?symbol=BGWT)         | Medium           | Hydro Power                  |   492    |             1 |     14    |
+| [USHEC](https://merolagani.com/CompanyDetail.aspx?symbol=USHEC)       | Medium           | Hydro Power                  |   502    |             1 |     -1    |
+| [MKHL](https://merolagani.com/CompanyDetail.aspx?symbol=MKHL)         | Medium           | Hydro Power                  |   505    |             1 |     -1    |
+| [UMRH](https://merolagani.com/CompanyDetail.aspx?symbol=UMRH)         | Medium           | Hydro Power                  |   518    |             1 |      5    |
+| [TAMOR](https://merolagani.com/CompanyDetail.aspx?symbol=TAMOR)       | Medium           | Hydro Power                  |   533.8  |             1 |     -1    |
+| [SHPC](https://merolagani.com/CompanyDetail.aspx?symbol=SHPC)         | Medium           | Hydro Power                  |   534.5  |             1 |     -1    |
+| [MSHL](https://merolagani.com/CompanyDetail.aspx?symbol=MSHL)         | Medium           | Hydro Power                  |   550    |             1 |     15    |
+| [ENL](https://merolagani.com/CompanyDetail.aspx?symbol=ENL)           | Medium           | Investment                   |   550.6  |             1 |     -1    |
+| [CFCL](https://merolagani.com/CompanyDetail.aspx?symbol=CFCL)         | Medium           | Finance                      |   567.9  |             1 |     -1    |
+| [SIKLES](https://merolagani.com/CompanyDetail.aspx?symbol=SIKLES)     | Medium           | Hydro Power                  |   574    |             1 |     15    |
+| [BHCL](https://merolagani.com/CompanyDetail.aspx?symbol=BHCL)         | Medium           | Hydro Power                  |   574.8  |             1 |     10    |
+| [CKHL](https://merolagani.com/CompanyDetail.aspx?symbol=CKHL)         | Medium           | Hydro Power                  |   582.4  |             1 |     -1    |
+| [UHEWA](https://merolagani.com/CompanyDetail.aspx?symbol=UHEWA)       | Medium           | Hydro Power                  |   587    |             1 |     15    |
+| [PRIN](https://merolagani.com/CompanyDetail.aspx?symbol=PRIN)         | Medium           | Non-Life Insurance           |   592    |             1 |      8.7  |
+| [NUBL](https://merolagani.com/CompanyDetail.aspx?symbol=NUBL)         | Medium           | Microfinance                 |   604    |             1 |      5    |
+| [MERO](https://merolagani.com/CompanyDetail.aspx?symbol=MERO)         | Medium           | Microfinance                 |   607    |             1 |      4.75 |
+| [RSDC](https://merolagani.com/CompanyDetail.aspx?symbol=RSDC)         | Medium           | Microfinance                 |   628    |             1 |     -1    |
+| [PCIL](https://merolagani.com/CompanyDetail.aspx?symbol=PCIL)         | Medium           | Manufacturing And Processing |   633    |             1 |     -1    |
+| [NHDL](https://merolagani.com/CompanyDetail.aspx?symbol=NHDL)         | Medium           | Hydro Power                  |   633.2  |             1 |      9    |
+| [MEN](https://merolagani.com/CompanyDetail.aspx?symbol=MEN)           | Medium           | Hydro Power                  |   653    |             1 |     20    |
+| [BPCL](https://merolagani.com/CompanyDetail.aspx?symbol=BPCL)         | Medium           | Hydro Power                  |   676    |             1 |      5    |
+| [RADHI](https://merolagani.com/CompanyDetail.aspx?symbol=RADHI)       | Medium           | Hydro Power                  |   721.7  |             1 |      4.75 |
+| [MATRI](https://merolagani.com/CompanyDetail.aspx?symbol=MATRI)       | Medium           | Microfinance                 |   727.1  |             1 |     -1    |
+| [MANDU](https://merolagani.com/CompanyDetail.aspx?symbol=MANDU)       | Medium           | Hydro Power                  |   740.2  |             1 |     10    |
+| [SKHL](https://merolagani.com/CompanyDetail.aspx?symbol=SKHL)         | Medium           | Hydro Power                  |   744    |             1 |     -1    |
+| [MFIL](https://merolagani.com/CompanyDetail.aspx?symbol=MFIL)         | Medium           | Finance                      |   764.8  |             1 |     -1    |
+| [SKBBL](https://merolagani.com/CompanyDetail.aspx?symbol=SKBBL)       | Medium           | Microfinance                 |   767.9  |             1 |     14.25 |
+| [PURE](https://merolagani.com/CompanyDetail.aspx?symbol=PURE)         | Medium           | Others                       |   817    |             1 |     -1    |
+| [LLBS](https://merolagani.com/CompanyDetail.aspx?symbol=LLBS)         | Medium           | Microfinance                 |   860    |             1 |     -1    |
+| [ILBS](https://merolagani.com/CompanyDetail.aspx?symbol=ILBS)         | Medium           | Microfinance                 |   950    |             1 |     -1    |
+| [AVYAN](https://merolagani.com/CompanyDetail.aspx?symbol=AVYAN)       | Medium           | Microfinance                 |  1060    |             1 |     -1    |
+| [MLBSL](https://merolagani.com/CompanyDetail.aspx?symbol=MLBSL)       | Medium           | Microfinance                 |  1126.4  |             1 |     -1    |
+| [MSLB](https://merolagani.com/CompanyDetail.aspx?symbol=MSLB)         | Medium           | Microfinance                 |  1210    |             1 |      4.75 |
+| [HDL](https://merolagani.com/CompanyDetail.aspx?symbol=HDL)           | Medium           | Manufacturing And Processing |  1312    |             1 |     20    |
+| [SHLB](https://merolagani.com/CompanyDetail.aspx?symbol=SHLB)         | Medium           | Microfinance                 |  1312    |             1 |     -1    |
+| [CHDC](https://merolagani.com/CompanyDetail.aspx?symbol=CHDC)         | Medium           | Investment                   |  2402    |             1 |     11    |
+| [RBCL](https://merolagani.com/CompanyDetail.aspx?symbol=RBCL)         | Medium           | Non-Life Insurance           | 14000    |             1 |    114.27 |
+| [NIMBPO](https://merolagani.com/CompanyDetail.aspx?symbol=NIMBPO)     | Weak             | Promotor Share               |   146.3  |             1 |     -1    |
+| [RHPL](https://merolagani.com/CompanyDetail.aspx?symbol=RHPL)         | Weak             | Hydro Power                  |   172    |             1 |     -1    |
+| [PRVU](https://merolagani.com/CompanyDetail.aspx?symbol=PRVU)         | Weak             | Commercial Banks             |   187.3  |             1 |     -1    |
+| [HIDCLP](https://merolagani.com/CompanyDetail.aspx?symbol=HIDCLP)     | Weak             | Promotor Share               |   190.6  |             1 |     -1    |
+| [SSHL](https://merolagani.com/CompanyDetail.aspx?symbol=SSHL)         | Weak             | Hydro Power                  |   207.1  |             1 |     -1    |
+| [MEL](https://merolagani.com/CompanyDetail.aspx?symbol=MEL)           | Weak             | Hydro Power                  |   214    |             1 |     -1    |
+| [HDHPC](https://merolagani.com/CompanyDetail.aspx?symbol=HDHPC)       | Weak             | Hydro Power                  |   220.3  |             1 |     -1    |
+| [GBBLPO](https://merolagani.com/CompanyDetail.aspx?symbol=GBBLPO)     | Weak             | Promotor Share               |   230.9  |             1 |     -1    |
+| [GHL](https://merolagani.com/CompanyDetail.aspx?symbol=GHL)           | Weak             | Hydro Power                  |   253.7  |             1 |     -1    |
+| [RHGCL](https://merolagani.com/CompanyDetail.aspx?symbol=RHGCL)       | Weak             | Hydro Power                  |   262.8  |             1 |     -1    |
+| [NHPC](https://merolagani.com/CompanyDetail.aspx?symbol=NHPC)         | Weak             | Hydro Power                  |   265.5  |             1 |     -1    |
+| [KKHC](https://merolagani.com/CompanyDetail.aspx?symbol=KKHC)         | Weak             | Hydro Power                  |   275.1  |             1 |     -1    |
+| [NRM](https://merolagani.com/CompanyDetail.aspx?symbol=NRM)           | Weak             | Others                       |   288    |             1 |     -1    |
+| [PPL](https://merolagani.com/CompanyDetail.aspx?symbol=PPL)           | Weak             | Hydro Power                  |   324.9  |             1 |     -1    |
+| [IHL](https://merolagani.com/CompanyDetail.aspx?symbol=IHL)           | Weak             | Hydro Power                  |   327.2  |             1 |     -1    |
+| [ULHC](https://merolagani.com/CompanyDetail.aspx?symbol=ULHC)         | Weak             | Hydro Power                  |   339    |             1 |     -1    |
+| [RIDI](https://merolagani.com/CompanyDetail.aspx?symbol=RIDI)         | Weak             | Hydro Power                  |   343    |             1 |     -1    |
+| [CITY](https://merolagani.com/CompanyDetail.aspx?symbol=CITY)         | Weak             | Hotels And Tourism           |   353.5  |             1 |     -1    |
+| [GCIL](https://merolagani.com/CompanyDetail.aspx?symbol=GCIL)         | Weak             | Manufacturing And Processing |   401.3  |             1 |     10    |
+| [HRL](https://merolagani.com/CompanyDetail.aspx?symbol=HRL)           | Weak             | Others                       |   510    |             1 |     -1    |
+| [NWCL](https://merolagani.com/CompanyDetail.aspx?symbol=NWCL)         | Weak             | Others                       |   602    |             1 |     -1    |
+| [HFIN](https://merolagani.com/CompanyDetail.aspx?symbol=HFIN)         | Weak             | Hotels And Tourism           |   617.5  |             1 |     -1    |
+| [OHL](https://merolagani.com/CompanyDetail.aspx?symbol=OHL)           | Weak             | Hotels And Tourism           |   638    |             1 |      5    |
+| [LSL](https://merolagani.com/CompanyDetail.aspx?symbol=LSL)           | Medium           | Commercial Banks             |   250    |             0 |     10    |
+| [MEHL](https://merolagani.com/CompanyDetail.aspx?symbol=MEHL)         | Medium           | Hydro Power                  |   255.9  |             0 |     -1    |
+| [MKHC](https://merolagani.com/CompanyDetail.aspx?symbol=MKHC)         | Medium           | Hydro Power                  |   263.8  |             0 |     -1    |
+| [JFL](https://merolagani.com/CompanyDetail.aspx?symbol=JFL)           | Medium           | Finance                      |   285    |             0 |     -1    |
+| [DOLTI](https://merolagani.com/CompanyDetail.aspx?symbol=DOLTI)       | Medium           | Hydro Power                  |   299    |             0 |     -1    |
+| [NICA](https://merolagani.com/CompanyDetail.aspx?symbol=NICA)         | Medium           | Commercial Banks             |   316.3  |             0 |     -1    |
+| [EHPL](https://merolagani.com/CompanyDetail.aspx?symbol=EHPL)         | Medium           | Hydro Power                  |   326.8  |             0 |     -1    |
+| [NYADI](https://merolagani.com/CompanyDetail.aspx?symbol=NYADI)       | Medium           | Hydro Power                  |   351.4  |             0 |     -1    |
+| [PROFL](https://merolagani.com/CompanyDetail.aspx?symbol=PROFL)       | Medium           | Finance                      |   391    |             0 |     -1    |
+| [SBI](https://merolagani.com/CompanyDetail.aspx?symbol=SBI)           | Medium           | Commercial Banks             |   404.2  |             0 |      4    |
+| [SINDU](https://merolagani.com/CompanyDetail.aspx?symbol=SINDU)       | Medium           | Development Bank Limited     |   417.9  |             0 |     -1    |
+| [ALICL](https://merolagani.com/CompanyDetail.aspx?symbol=ALICL)       | Medium           | Life Insurance               |   432.8  |             0 |      5    |
+| [BFC](https://merolagani.com/CompanyDetail.aspx?symbol=BFC)           | Medium           | Finance                      |   447    |             0 |     20    |
+| [HATHY](https://merolagani.com/CompanyDetail.aspx?symbol=HATHY)       | Medium           | Investment                   |   452.9  |             0 |     12    |
+| [NICL](https://merolagani.com/CompanyDetail.aspx?symbol=NICL)         | Medium           | Non-Life Insurance           |   456    |             0 |     -1    |
+| [KAHL](https://merolagani.com/CompanyDetail.aspx?symbol=KAHL)         | Medium           | Hydro Power                  |   485    |             0 |     -1    |
+| [TPKHL](https://merolagani.com/CompanyDetail.aspx?symbol=TPKHL)       | Medium           | Hydro Power                  |   500    |             0 |     -1    |
+| [NLG](https://merolagani.com/CompanyDetail.aspx?symbol=NLG)           | Medium           | Non-Life Insurance           |   512    |             0 |      4    |
+| [SPHL](https://merolagani.com/CompanyDetail.aspx?symbol=SPHL)         | Medium           | Hydro Power                  |   512    |             0 |     -1    |
+| [USHL](https://merolagani.com/CompanyDetail.aspx?symbol=USHL)         | Medium           | Hydro Power                  |   515    |             0 |     -1    |
+| [NICLBSL](https://merolagani.com/CompanyDetail.aspx?symbol=NICLBSL)   | Medium           | Microfinance                 |   516.9  |             0 |     -1    |
+| [SHL](https://merolagani.com/CompanyDetail.aspx?symbol=SHL)           | Medium           | Hotels And Tourism           |   518    |             0 |     15    |
+| [SICL](https://merolagani.com/CompanyDetail.aspx?symbol=SICL)         | Medium           | Non-Life Insurance           |   552    |             0 |      6    |
+| [UMHL](https://merolagani.com/CompanyDetail.aspx?symbol=UMHL)         | Medium           | Hydro Power                  |   559    |             0 |      7    |
+| [MDB](https://merolagani.com/CompanyDetail.aspx?symbol=MDB)           | Medium           | Development Bank Limited     |   560    |             0 |     -1    |
+| [NABIL](https://merolagani.com/CompanyDetail.aspx?symbol=NABIL)       | Medium           | Commercial Banks             |   569    |             0 |      5    |
+| [EDBL](https://merolagani.com/CompanyDetail.aspx?symbol=EDBL)         | Medium           | Development Bank Limited     |   575    |             0 |     -1    |
+| [NLICL](https://merolagani.com/CompanyDetail.aspx?symbol=NLICL)       | Medium           | Life Insurance               |   581.4  |             0 |      4    |
+| [MPFL](https://merolagani.com/CompanyDetail.aspx?symbol=MPFL)         | Medium           | Finance                      |   588    |             0 |     -1    |
+| [SPL](https://merolagani.com/CompanyDetail.aspx?symbol=SPL)           | Medium           | Hydro Power                  |   595    |             0 |     -1    |
+| [RURU](https://merolagani.com/CompanyDetail.aspx?symbol=RURU)         | Medium           | Hydro Power                  |   604    |             0 |     10    |
+| [SAPDBL](https://merolagani.com/CompanyDetail.aspx?symbol=SAPDBL)     | Medium           | Development Bank Limited     |   605    |             0 |      3    |
+| [SOHL](https://merolagani.com/CompanyDetail.aspx?symbol=SOHL)         | Medium           | Hydro Power                  |   645    |             0 |     -1    |
+| [MEPDL](https://merolagani.com/CompanyDetail.aspx?symbol=MEPDL)       | Medium           | Hydro Power                  |   654    |             0 |     -1    |
+| [SCB](https://merolagani.com/CompanyDetail.aspx?symbol=SCB)           | Medium           | Commercial Banks             |   657.2  |             0 |      6.5  |
+| [TTL](https://merolagani.com/CompanyDetail.aspx?symbol=TTL)           | Medium           | Others                       |   692.1  |             0 |     -1    |
+| [EBL](https://merolagani.com/CompanyDetail.aspx?symbol=EBL)           | Medium           | Commercial Banks             |   697.4  |             0 |      5    |
+| [SMATA](https://merolagani.com/CompanyDetail.aspx?symbol=SMATA)       | Medium           | Microfinance                 |   700    |             0 |      5    |
+| [KHPL](https://merolagani.com/CompanyDetail.aspx?symbol=KHPL)         | Medium           | Hydro Power                  |   716.7  |             0 |     -1    |
+| [SOPL](https://merolagani.com/CompanyDetail.aspx?symbol=SOPL)         | Medium           | Manufacturing And Processing |   735    |             0 |     -1    |
+| [NLIC](https://merolagani.com/CompanyDetail.aspx?symbol=NLIC)         | Medium           | Life Insurance               |   745    |             0 |      5    |
+| [RLEL](https://merolagani.com/CompanyDetail.aspx?symbol=RLEL)         | Medium           | Hydro Power                  |   752.1  |             0 |     -1    |
+| [FMDBL](https://merolagani.com/CompanyDetail.aspx?symbol=FMDBL)       | Medium           | Microfinance                 |   759.5  |             0 |     -1    |
+| [CGH](https://merolagani.com/CompanyDetail.aspx?symbol=CGH)           | Medium           | Hotels And Tourism           |   773    |             0 |      5    |
+| [CORBL](https://merolagani.com/CompanyDetail.aspx?symbol=CORBL)       | Medium           | Development Bank Limited     |   795.1  |             0 |     -1    |
+| [LICN](https://merolagani.com/CompanyDetail.aspx?symbol=LICN)         | Medium           | Life Insurance               |   800.9  |             0 |     -1    |
+| [KBSH](https://merolagani.com/CompanyDetail.aspx?symbol=KBSH)         | Medium           | Hydro Power                  |   807    |             0 |     10    |
+| [NMIC](https://merolagani.com/CompanyDetail.aspx?symbol=NMIC)         | Medium           | Non-Life Insurance           |   821.8  |             0 |     -1    |
+| [MKCL](https://merolagani.com/CompanyDetail.aspx?symbol=MKCL)         | Medium           | Others                       |   867    |             0 |      8    |
+| [SABBL](https://merolagani.com/CompanyDetail.aspx?symbol=SABBL)       | Medium           | Development Bank Limited     |   871    |             0 |     -1    |
+| [ACLBSL](https://merolagani.com/CompanyDetail.aspx?symbol=ACLBSL)     | Medium           | Microfinance                 |   877    |             0 |     -1    |
+| [SNORL](https://merolagani.com/CompanyDetail.aspx?symbol=SNORL)       | Medium           | Hydro Power                  |   899    |             0 |     10    |
+| [SLBSL](https://merolagani.com/CompanyDetail.aspx?symbol=SLBSL)       | Medium           | Microfinance                 |   917    |             0 |     -1    |
+| [GRDBL](https://merolagani.com/CompanyDetail.aspx?symbol=GRDBL)       | Medium           | Development Bank Limited     |   960    |             0 |      8.04 |
+| [JSLBB](https://merolagani.com/CompanyDetail.aspx?symbol=JSLBB)       | Medium           | Microfinance                 |   969    |             0 |     -1    |
+| [MLBBL](https://merolagani.com/CompanyDetail.aspx?symbol=MLBBL)       | Medium           | Microfinance                 |   978.9  |             0 |     14.25 |
+| [GMLI](https://merolagani.com/CompanyDetail.aspx?symbol=GMLI)         | Medium           | Life Insurance               |   990    |             0 |     -1    |
+| [SAIL](https://merolagani.com/CompanyDetail.aspx?symbol=SAIL)         | Medium           | Manufacturing And Processing |   993.5  |             0 |     -1    |
+| [MLBS](https://merolagani.com/CompanyDetail.aspx?symbol=MLBS)         | Medium           | Microfinance                 |  1019    |             0 |     -1    |
+| [JHAPA](https://merolagani.com/CompanyDetail.aspx?symbol=JHAPA)       | Medium           | Others                       |  1038    |             0 |     -1    |
+| [CREST](https://merolagani.com/CompanyDetail.aspx?symbol=CREST)       | Medium           | Life Insurance               |  1099    |             0 |     -1    |
+| [GMFBS](https://merolagani.com/CompanyDetail.aspx?symbol=GMFBS)       | Medium           | Microfinance                 |  1124    |             0 |     19    |
+| [USLB](https://merolagani.com/CompanyDetail.aspx?symbol=USLB)         | Medium           | Microfinance                 |  1144    |             0 |     30    |
+| [ALBSL](https://merolagani.com/CompanyDetail.aspx?symbol=ALBSL)       | Medium           | Microfinance                 |  1174.4  |             0 |      9.5  |
+| [DLBS](https://merolagani.com/CompanyDetail.aspx?symbol=DLBS)         | Medium           | Microfinance                 |  1205.1  |             0 |     -1    |
+| [UNLB](https://merolagani.com/CompanyDetail.aspx?symbol=UNLB)         | Medium           | Microfinance                 |  1255.9  |             0 |     19    |
+| [ECL](https://merolagani.com/CompanyDetail.aspx?symbol=ECL)           | Medium           | Manufacturing And Processing |  1296.1  |             0 |     -1    |
+| [SYPNL](https://merolagani.com/CompanyDetail.aspx?symbol=SYPNL)       | Medium           | Manufacturing And Processing |  1319.8  |             0 |     -1    |
+| [SAPIL](https://merolagani.com/CompanyDetail.aspx?symbol=SAPIL)       | Medium           | Manufacturing And Processing |  1348.9  |             0 |     10    |
+| [SMFBS](https://merolagani.com/CompanyDetail.aspx?symbol=SMFBS)       | Medium           | Microfinance                 |  1395    |             0 |     -1    |
+| [GLBSL](https://merolagani.com/CompanyDetail.aspx?symbol=GLBSL)       | Medium           | Microfinance                 |  1700    |             0 |      9.5  |
+| [SWASTIK](https://merolagani.com/CompanyDetail.aspx?symbol=SWASTIK)   | Medium           | Microfinance                 |  1815.1  |             0 |     -1    |
+| [SMB](https://merolagani.com/CompanyDetail.aspx?symbol=SMB)           | Medium           | Microfinance                 |  1864    |             0 |      9.5  |
+| [ULBSL](https://merolagani.com/CompanyDetail.aspx?symbol=ULBSL)       | Medium           | Microfinance                 |  2552    |             0 |     -1    |
+| [ANLB](https://merolagani.com/CompanyDetail.aspx?symbol=ANLB)         | Medium           | Microfinance                 |  4987    |             0 |     14.25 |
+| [NIBLSTF](https://merolagani.com/CompanyDetail.aspx?symbol=NIBLSTF)   | Weak             | Mutual Fund                  |     8.45 |             0 |     -1    |
+| [CSY](https://merolagani.com/CompanyDetail.aspx?symbol=CSY)           | Weak             | Mutual Fund                  |     8.6  |             0 |     -1    |
+| [NICSF](https://merolagani.com/CompanyDetail.aspx?symbol=NICSF)       | Weak             | Mutual Fund                  |     8.6  |             0 |     -1    |
+| [HLICF](https://merolagani.com/CompanyDetail.aspx?symbol=HLICF)       | Weak             | Mutual Fund                  |     8.66 |             0 |     -1    |
+| [NIBLGF](https://merolagani.com/CompanyDetail.aspx?symbol=NIBLGF)     | Weak             | Mutual Fund                  |     8.69 |             0 |     -1    |
+| [NICFC](https://merolagani.com/CompanyDetail.aspx?symbol=NICFC)       | Weak             | Mutual Fund                  |     8.87 |             0 |     -1    |
+| [SBCF](https://merolagani.com/CompanyDetail.aspx?symbol=SBCF)         | Weak             | Mutual Fund                  |     8.92 |             0 |     -1    |
+| [SFEF](https://merolagani.com/CompanyDetail.aspx?symbol=SFEF)         | Weak             | Mutual Fund                  |     9.11 |             0 |     -1    |
+| [SLCF](https://merolagani.com/CompanyDetail.aspx?symbol=SLCF)         | Weak             | Mutual Fund                  |     9.2  |             0 |     -1    |
+| [GSY](https://merolagani.com/CompanyDetail.aspx?symbol=GSY)           | Weak             | Mutual Fund                  |     9.25 |             0 |     -1    |
+| [NSY](https://merolagani.com/CompanyDetail.aspx?symbol=NSY)           | Weak             | Mutual Fund                  |     9.25 |             0 |     -1    |
+| [SFMF](https://merolagani.com/CompanyDetail.aspx?symbol=SFMF)         | Weak             | Mutual Fund                  |     9.25 |             0 |     -1    |
+| [MBLEF](https://merolagani.com/CompanyDetail.aspx?symbol=MBLEF)       | Weak             | Mutual Fund                  |     9.29 |             0 |     -1    |
+| [KEF](https://merolagani.com/CompanyDetail.aspx?symbol=KEF)           | Weak             | Mutual Fund                  |     9.33 |             0 |     -1    |
+| [RSY](https://merolagani.com/CompanyDetail.aspx?symbol=RSY)           | Weak             | Mutual Fund                  |     9.37 |             0 |     -1    |
+| [LUK](https://merolagani.com/CompanyDetail.aspx?symbol=LUK)           | Weak             | Mutual Fund                  |     9.48 |             0 |     -1    |
+| [KSY](https://merolagani.com/CompanyDetail.aspx?symbol=KSY)           | Weak             | Mutual Fund                  |     9.53 |             0 |     -1    |
+| [SEF](https://merolagani.com/CompanyDetail.aspx?symbol=SEF)           | Weak             | Mutual Fund                  |     9.7  |             0 |     -1    |
+| [KDBY](https://merolagani.com/CompanyDetail.aspx?symbol=KDBY)         | Weak             | Mutual Fund                  |    10.24 |             0 |     -1    |
+| [PSF](https://merolagani.com/CompanyDetail.aspx?symbol=PSF)           | Weak             | Mutual Fund                  |    10.86 |             0 |     -1    |
+| [PRSF](https://merolagani.com/CompanyDetail.aspx?symbol=PRSF)         | Weak             | Mutual Fund                  |    11.83 |             0 |     -1    |
+| [JOSHI](https://merolagani.com/CompanyDetail.aspx?symbol=JOSHI)       | Weak             | Hydro Power                  |   264    |             0 |     -1    |
+| [MCHL](https://merolagani.com/CompanyDetail.aspx?symbol=MCHL)         | Weak             | Hydro Power                  |   269.8  |             0 |     -1    |
+| [TVCL](https://merolagani.com/CompanyDetail.aspx?symbol=TVCL)         | Weak             | Hydro Power                  |   305    |             0 |     -1    |
+| [BEDC](https://merolagani.com/CompanyDetail.aspx?symbol=BEDC)         | Weak             | Hydro Power                  |   308.9  |             0 |     -1    |
+| [NABILP](https://merolagani.com/CompanyDetail.aspx?symbol=NABILP)     | Weak             | Promotor Share               |   310    |             0 |     30    |
+| [HEIP](https://merolagani.com/CompanyDetail.aspx?symbol=HEIP)         | Weak             | Promotor Share               |   319.4  |             0 |     -1    |
+| [TSHL](https://merolagani.com/CompanyDetail.aspx?symbol=TSHL)         | Weak             | Hydro Power                  |   359.9  |             0 |     -1    |
+| [AHL](https://merolagani.com/CompanyDetail.aspx?symbol=AHL)           | Weak             | Hydro Power                  |   402.7  |             0 |     -1    |
+| [BHPL](https://merolagani.com/CompanyDetail.aspx?symbol=BHPL)         | Weak             | Hydro Power                  |   447.5  |             0 |     -1    |
+| [NFS](https://merolagani.com/CompanyDetail.aspx?symbol=NFS)           | Weak             | Finance                      |   495    |             0 |     22    |
+| [BUNGAL](https://merolagani.com/CompanyDetail.aspx?symbol=BUNGAL)     | Weak             | Hydro Power                  |   514    |             0 |     -1    |
+| [DHEL](https://merolagani.com/CompanyDetail.aspx?symbol=DHEL)         | Weak             | Hydro Power                  |   554    |             0 |     -1    |
+| [YMHL](https://merolagani.com/CompanyDetail.aspx?symbol=YMHL)         | Weak             | Hydro Power                  |   557    |             0 |     -1    |
+| [SANVI](https://merolagani.com/CompanyDetail.aspx?symbol=SANVI)       | Weak             | Hydro Power                  |   559    |             0 |     -1    |
+| [SIPD](https://merolagani.com/CompanyDetail.aspx?symbol=SIPD)         | Weak             | Hydro Power                  |   569.9  |             0 |     -1    |
+| [MABEL](https://merolagani.com/CompanyDetail.aspx?symbol=MABEL)       | Weak             | Hydro Power                  |   579    |             0 |     -1    |
+| [NMFBSP](https://merolagani.com/CompanyDetail.aspx?symbol=NMFBSP)     | Weak             | Promotor Share               |   635.4  |             0 |     -1    |
+| [BANDIPUR](https://merolagani.com/CompanyDetail.aspx?symbol=BANDIPUR) | Weak             | Hotels And Tourism           |   640    |             0 |     -1    |
+| [BJHL](https://merolagani.com/CompanyDetail.aspx?symbol=BJHL)         | Weak             | Hydro Power                  |   643    |             0 |     -1    |
+| [HIMSTAR](https://merolagani.com/CompanyDetail.aspx?symbol=HIMSTAR)   | Weak             | Hydro Power                  |   644    |             0 |     -1    |
+| [APHL](https://merolagani.com/CompanyDetail.aspx?symbol=APHL)         | Weak             | Hydro Power                  |   671    |             0 |     -1    |
+| [NABBC](https://merolagani.com/CompanyDetail.aspx?symbol=NABBC)       | Weak             | Development Bank Limited     |   751.8  |             0 |     -1    |
+| [TRH](https://merolagani.com/CompanyDetail.aspx?symbol=TRH)           | Weak             | Hotels And Tourism           |   813.9  |             0 |     -1    |
+| [NRIC](https://merolagani.com/CompanyDetail.aspx?symbol=NRIC)         | Weak             | Others                       |   817    |             0 |     -1    |
+| [SKHEL](https://merolagani.com/CompanyDetail.aspx?symbol=SKHEL)       | Weak             | Hydro Power                  |   845    |             0 |     -1    |
+| [OMPL](https://merolagani.com/CompanyDetail.aspx?symbol=OMPL)         | Weak             | Manufacturing And Processing |   870    |             0 |     -1    |
+| [NIFRAGED](https://merolagani.com/CompanyDetail.aspx?symbol=NIFRAGED) | Weak             | Corporate Debenture          |  1100    |             0 |     -1    |
+| [NRN](https://merolagani.com/CompanyDetail.aspx?symbol=NRN)           | Weak             | Investment                   |  1415    |             0 |     40    |
+| [SAGAR](https://merolagani.com/CompanyDetail.aspx?symbol=SAGAR)       | Weak             | Manufacturing And Processing |  1608    |             0 |     -1    |
+| [BBC](https://merolagani.com/CompanyDetail.aspx?symbol=BBC)           | Weak             | Tradings                     |  4090.5  |             0 |     -1    |
+| [RBCLPO](https://merolagani.com/CompanyDetail.aspx?symbol=RBCLPO)     | Weak             | Promotor Share               | 11514    |             0 |     -1    |
