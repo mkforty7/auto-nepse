@@ -2,14 +2,14 @@
 
 Daily NEPSE stock screener — auto-ranks Nepal Stock Exchange stocks by undervalued fundamentals and bonus history.
 
-_Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies ranked_
+_Last updated: 2026-11-01 22:42 NPT · Source: merolagani.com · 310 companies ranked_
 
 | Undervalued = P/E and P/BV below sector median | Ratios Summary: Strong = profitable and cheap vs sector |
 
 | Symbol                                                                | Ratios Summary   | Sector                       |      LTP |   Undervalued |   Bonus % |
 |:----------------------------------------------------------------------|:-----------------|:-----------------------------|---------:|--------------:|----------:|
+| [NIMB](https://merolagani.com/CompanyDetail.aspx?symbol=NIMB)         | Strong           | Commercial Banks             |   211.5  |             2 |     -1    |
 | [BHL](https://merolagani.com/CompanyDetail.aspx?symbol=BHL)           | Strong           | Hydro Power                  |   227.7  |             2 |     -1    |
-| [CZBIL](https://merolagani.com/CompanyDetail.aspx?symbol=CZBIL)       | Strong           | Commercial Banks             |   229    |             2 |      3.8  |
 | [KBL](https://merolagani.com/CompanyDetail.aspx?symbol=KBL)           | Strong           | Commercial Banks             |   239    |             2 |      6    |
 | [NIFRA](https://merolagani.com/CompanyDetail.aspx?symbol=NIFRA)       | Strong           | Investment                   |   252.5  |             2 |      8    |
 | [GBIME](https://merolagani.com/CompanyDetail.aspx?symbol=GBIME)       | Strong           | Commercial Banks             |   264.9  |             2 |      4    |
@@ -73,12 +73,14 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [CYCL](https://merolagani.com/CompanyDetail.aspx?symbol=CYCL)         | Strong           | Microfinance                 |  1429.9  |             2 |     30    |
 | [BNT](https://merolagani.com/CompanyDetail.aspx?symbol=BNT)           | Strong           | Manufacturing And Processing | 11922.2  |             2 |     -1    |
 | [BNL](https://merolagani.com/CompanyDetail.aspx?symbol=BNL)           | Strong           | Manufacturing And Processing | 14186.2  |             2 |     -1    |
-| [MLBL](https://merolagani.com/CompanyDetail.aspx?symbol=MLBL)         | Strong           | Development Bank Limited     |   391.8  |             1 |      5    |
+| [HBL](https://merolagani.com/CompanyDetail.aspx?symbol=HBL)           | Strong           | Commercial Banks             |   208.4  |             1 |     -1    |
+| [PCBL](https://merolagani.com/CompanyDetail.aspx?symbol=PCBL)         | Strong           | Commercial Banks             |   283    |             1 |      8    |
+| [SIFC](https://merolagani.com/CompanyDetail.aspx?symbol=SIFC)         | Strong           | Finance                      |   482    |             1 |      1.87 |
 | [SPIL](https://merolagani.com/CompanyDetail.aspx?symbol=SPIL)         | Strong           | Non-Life Insurance           |   617.9  |             1 |     -1    |
 | [STC](https://merolagani.com/CompanyDetail.aspx?symbol=STC)           | Strong           | Tradings                     |  5531    |             1 |     10    |
+| [PRVU](https://merolagani.com/CompanyDetail.aspx?symbol=PRVU)         | Medium           | Commercial Banks             |   194.3  |             1 |     -1    |
 | [UPPER](https://merolagani.com/CompanyDetail.aspx?symbol=UPPER)       | Medium           | Hydro Power                  |   195    |             1 |     -1    |
-| [HBL](https://merolagani.com/CompanyDetail.aspx?symbol=HBL)           | Medium           | Commercial Banks             |   208.4  |             1 |     -1    |
-| [NIMB](https://merolagani.com/CompanyDetail.aspx?symbol=NIMB)         | Medium           | Commercial Banks             |   211.5  |             1 |     -1    |
+| [CZBIL](https://merolagani.com/CompanyDetail.aspx?symbol=CZBIL)       | Medium           | Commercial Banks             |   229    |             1 |      3.8  |
 | [LEC](https://merolagani.com/CompanyDetail.aspx?symbol=LEC)           | Medium           | Hydro Power                  |   240    |             1 |     -1    |
 | [MEHL](https://merolagani.com/CompanyDetail.aspx?symbol=MEHL)         | Medium           | Hydro Power                  |   246.2  |             1 |     -1    |
 | [SJCL](https://merolagani.com/CompanyDetail.aspx?symbol=SJCL)         | Medium           | Hydro Power                  |   252    |             1 |     -1    |
@@ -91,12 +93,10 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [DORDI](https://merolagani.com/CompanyDetail.aspx?symbol=DORDI)       | Medium           | Hydro Power                  |   277    |             1 |     -1    |
 | [MBL](https://merolagani.com/CompanyDetail.aspx?symbol=MBL)           | Medium           | Commercial Banks             |   280.2  |             1 |      3    |
 | [BNHC](https://merolagani.com/CompanyDetail.aspx?symbol=BNHC)         | Medium           | Hydro Power                  |   282.5  |             1 |     -1    |
-| [PCBL](https://merolagani.com/CompanyDetail.aspx?symbol=PCBL)         | Medium           | Commercial Banks             |   283    |             1 |      8    |
 | [MKJC](https://merolagani.com/CompanyDetail.aspx?symbol=MKJC)         | Medium           | Hydro Power                  |   303.7  |             1 |      2.22 |
 | [HLI](https://merolagani.com/CompanyDetail.aspx?symbol=HLI)           | Medium           | Life Insurance               |   307.8  |             1 |     14    |
 | [BARUN](https://merolagani.com/CompanyDetail.aspx?symbol=BARUN)       | Medium           | Hydro Power                  |   327    |             1 |      4.75 |
 | [MBJC](https://merolagani.com/CompanyDetail.aspx?symbol=MBJC)         | Medium           | Hydro Power                  |   330.4  |             1 |     -1    |
-| [PFL](https://merolagani.com/CompanyDetail.aspx?symbol=PFL)           | Medium           | Finance                      |   336    |             1 |     -1    |
 | [AKJCL](https://merolagani.com/CompanyDetail.aspx?symbol=AKJCL)       | Medium           | Hydro Power                  |   343    |             1 |     -1    |
 | [ADBL](https://merolagani.com/CompanyDetail.aspx?symbol=ADBL)         | Medium           | Commercial Banks             |   347    |             1 |      3.25 |
 | [UPCL](https://merolagani.com/CompanyDetail.aspx?symbol=UPCL)         | Medium           | Hydro Power                  |   348    |             1 |      9    |
@@ -108,18 +108,17 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [UAIL](https://merolagani.com/CompanyDetail.aspx?symbol=UAIL)         | Medium           | Non-Life Insurance           |   374.8  |             1 |      4.29 |
 | [SGIC](https://merolagani.com/CompanyDetail.aspx?symbol=SGIC)         | Medium           | Non-Life Insurance           |   388    |             1 |      5    |
 | [VLUCL](https://merolagani.com/CompanyDetail.aspx?symbol=VLUCL)       | Medium           | Hydro Power                  |   389    |             1 |     -1    |
+| [MLBL](https://merolagani.com/CompanyDetail.aspx?symbol=MLBL)         | Medium           | Development Bank Limited     |   391.8  |             1 |      5    |
 | [SPC](https://merolagani.com/CompanyDetail.aspx?symbol=SPC)           | Medium           | Hydro Power                  |   401    |             1 |     -1    |
 | [IGI](https://merolagani.com/CompanyDetail.aspx?symbol=IGI)           | Medium           | Non-Life Insurance           |   405    |             1 |      6    |
 | [NGPL](https://merolagani.com/CompanyDetail.aspx?symbol=NGPL)         | Medium           | Hydro Power                  |   411    |             1 |      4.75 |
 | [SANIMA](https://merolagani.com/CompanyDetail.aspx?symbol=SANIMA)     | Medium           | Commercial Banks             |   412.5  |             1 |      9    |
 | [RAWA](https://merolagani.com/CompanyDetail.aspx?symbol=RAWA)         | Medium           | Hydro Power                  |   416    |             1 |     -1    |
 | [SADBL](https://merolagani.com/CompanyDetail.aspx?symbol=SADBL)       | Medium           | Development Bank Limited     |   417    |             1 |      4    |
-| [GMFIL](https://merolagani.com/CompanyDetail.aspx?symbol=GMFIL)       | Medium           | Finance                      |   427.2  |             1 |     -1    |
-| [RLFL](https://merolagani.com/CompanyDetail.aspx?symbol=RLFL)         | Medium           | Finance                      |   429.8  |             1 |     -1    |
 | [PMLI](https://merolagani.com/CompanyDetail.aspx?symbol=PMLI)         | Medium           | Life Insurance               |   437.9  |             1 |      4    |
 | [SMJC](https://merolagani.com/CompanyDetail.aspx?symbol=SMJC)         | Medium           | Hydro Power                  |   440    |             1 |      4.75 |
+| [BFC](https://merolagani.com/CompanyDetail.aspx?symbol=BFC)           | Medium           | Finance                      |   459    |             1 |     20    |
 | [SGHL](https://merolagani.com/CompanyDetail.aspx?symbol=SGHL)         | Medium           | Hydro Power                  |   473    |             1 |     -1    |
-| [SIFC](https://merolagani.com/CompanyDetail.aspx?symbol=SIFC)         | Medium           | Finance                      |   482    |             1 |      1.87 |
 | [ENL](https://merolagani.com/CompanyDetail.aspx?symbol=ENL)           | Medium           | Investment                   |   488.9  |             1 |     -1    |
 | [CKHL](https://merolagani.com/CompanyDetail.aspx?symbol=CKHL)         | Medium           | Hydro Power                  |   493    |             1 |     -1    |
 | [SMHL](https://merolagani.com/CompanyDetail.aspx?symbol=SMHL)         | Medium           | Hydro Power                  |   506.2  |             1 |     15    |
@@ -136,7 +135,6 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [EDBL](https://merolagani.com/CompanyDetail.aspx?symbol=EDBL)         | Medium           | Development Bank Limited     |   585.9  |             1 |      8.5  |
 | [SIKLES](https://merolagani.com/CompanyDetail.aspx?symbol=SIKLES)     | Medium           | Hydro Power                  |   588    |             1 |     12.71 |
 | [TAMOR](https://merolagani.com/CompanyDetail.aspx?symbol=TAMOR)       | Medium           | Hydro Power                  |   604    |             1 |     -1    |
-| [CFCL](https://merolagani.com/CompanyDetail.aspx?symbol=CFCL)         | Medium           | Finance                      |   605.9  |             1 |     -1    |
 | [UHEWA](https://merolagani.com/CompanyDetail.aspx?symbol=UHEWA)       | Medium           | Hydro Power                  |   607.9  |             1 |     15    |
 | [SWMF](https://merolagani.com/CompanyDetail.aspx?symbol=SWMF)         | Medium           | Microfinance                 |   615.5  |             1 |      6    |
 | [MERO](https://merolagani.com/CompanyDetail.aspx?symbol=MERO)         | Medium           | Microfinance                 |   625    |             1 |      4.75 |
@@ -171,7 +169,6 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [NIMBPO](https://merolagani.com/CompanyDetail.aspx?symbol=NIMBPO)     | Weak             | Promotor Share               |   156.6  |             1 |     -1    |
 | [RHPL](https://merolagani.com/CompanyDetail.aspx?symbol=RHPL)         | Weak             | Hydro Power                  |   173    |             1 |     -1    |
 | [HIDCLP](https://merolagani.com/CompanyDetail.aspx?symbol=HIDCLP)     | Weak             | Promotor Share               |   191.3  |             1 |     -1    |
-| [PRVU](https://merolagani.com/CompanyDetail.aspx?symbol=PRVU)         | Weak             | Commercial Banks             |   194.3  |             1 |     -1    |
 | [SSHL](https://merolagani.com/CompanyDetail.aspx?symbol=SSHL)         | Weak             | Hydro Power                  |   208.6  |             1 |     -1    |
 | [MEL](https://merolagani.com/CompanyDetail.aspx?symbol=MEL)           | Weak             | Hydro Power                  |   214    |             1 |     -1    |
 | [HDHPC](https://merolagani.com/CompanyDetail.aspx?symbol=HDHPC)       | Weak             | Hydro Power                  |   220.1  |             1 |     -1    |
@@ -188,6 +185,7 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [GHL](https://merolagani.com/CompanyDetail.aspx?symbol=GHL)           | Weak             | Hydro Power                  |   332.3  |             1 |     -1    |
 | [RIDI](https://merolagani.com/CompanyDetail.aspx?symbol=RIDI)         | Weak             | Hydro Power                  |   341.8  |             1 |     -1    |
 | [GCIL](https://merolagani.com/CompanyDetail.aspx?symbol=GCIL)         | Weak             | Manufacturing And Processing |   400.3  |             1 |     10    |
+| [GMFIL](https://merolagani.com/CompanyDetail.aspx?symbol=GMFIL)       | Weak             | Finance                      |   427.2  |             1 |     -1    |
 | [HRL](https://merolagani.com/CompanyDetail.aspx?symbol=HRL)           | Weak             | Others                       |   493.9  |             1 |     -1    |
 | [NMLBBL](https://merolagani.com/CompanyDetail.aspx?symbol=NMLBBL)     | Weak             | Microfinance                 |   496    |             1 |     -1    |
 | [HFIN](https://merolagani.com/CompanyDetail.aspx?symbol=HFIN)         | Weak             | Hotels And Tourism           |   535.9  |             1 |     -1    |
@@ -201,8 +199,6 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [EHPL](https://merolagani.com/CompanyDetail.aspx?symbol=EHPL)         | Medium           | Hydro Power                  |   329.9  |             0 |     -1    |
 | [NICA](https://merolagani.com/CompanyDetail.aspx?symbol=NICA)         | Medium           | Commercial Banks             |   331    |             0 |     29    |
 | [NYADI](https://merolagani.com/CompanyDetail.aspx?symbol=NYADI)       | Medium           | Hydro Power                  |   351    |             0 |     -1    |
-| [PROFL](https://merolagani.com/CompanyDetail.aspx?symbol=PROFL)       | Medium           | Finance                      |   385.3  |             0 |      6    |
-| [SINDU](https://merolagani.com/CompanyDetail.aspx?symbol=SINDU)       | Medium           | Development Bank Limited     |   412    |             0 |     -1    |
 | [HATHY](https://merolagani.com/CompanyDetail.aspx?symbol=HATHY)       | Medium           | Investment                   |   414.9  |             0 |     12    |
 | [KAHL](https://merolagani.com/CompanyDetail.aspx?symbol=KAHL)         | Medium           | Hydro Power                  |   430    |             0 |     -1    |
 | [ALICL](https://merolagani.com/CompanyDetail.aspx?symbol=ALICL)       | Medium           | Life Insurance               |   432    |             0 |      5    |
@@ -210,7 +206,6 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [NICL](https://merolagani.com/CompanyDetail.aspx?symbol=NICL)         | Medium           | Non-Life Insurance           |   440    |             0 |     15    |
 | [TPKHL](https://merolagani.com/CompanyDetail.aspx?symbol=TPKHL)       | Medium           | Hydro Power                  |   450    |             0 |     -1    |
 | [SBL](https://merolagani.com/CompanyDetail.aspx?symbol=SBL)           | Medium           | Commercial Banks             |   450.2  |             0 |     10    |
-| [BFC](https://merolagani.com/CompanyDetail.aspx?symbol=BFC)           | Medium           | Finance                      |   459    |             0 |     20    |
 | [NICLBSL](https://merolagani.com/CompanyDetail.aspx?symbol=NICLBSL)   | Medium           | Microfinance                 |   508.9  |             0 |     -1    |
 | [SPHL](https://merolagani.com/CompanyDetail.aspx?symbol=SPHL)         | Medium           | Hydro Power                  |   511.9  |             0 |     -1    |
 | [USHL](https://merolagani.com/CompanyDetail.aspx?symbol=USHL)         | Medium           | Hydro Power                  |   512    |             0 |     -1    |
@@ -226,6 +221,7 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [MEPDL](https://merolagani.com/CompanyDetail.aspx?symbol=MEPDL)       | Medium           | Hydro Power                  |   590    |             0 |     -1    |
 | [MPFL](https://merolagani.com/CompanyDetail.aspx?symbol=MPFL)         | Medium           | Finance                      |   592    |             0 |     -1    |
 | [SPL](https://merolagani.com/CompanyDetail.aspx?symbol=SPL)           | Medium           | Hydro Power                  |   594    |             0 |     -1    |
+| [CFCL](https://merolagani.com/CompanyDetail.aspx?symbol=CFCL)         | Medium           | Finance                      |   605.9  |             0 |     -1    |
 | [RSDC](https://merolagani.com/CompanyDetail.aspx?symbol=RSDC)         | Medium           | Microfinance                 |   630    |             0 |     -1    |
 | [RURU](https://merolagani.com/CompanyDetail.aspx?symbol=RURU)         | Medium           | Hydro Power                  |   640    |             0 |     10    |
 | [TTL](https://merolagani.com/CompanyDetail.aspx?symbol=TTL)           | Medium           | Others                       |   644    |             0 |     -1    |
@@ -233,6 +229,7 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [SOHL](https://merolagani.com/CompanyDetail.aspx?symbol=SOHL)         | Medium           | Hydro Power                  |   662    |             0 |     -1    |
 | [KHPL](https://merolagani.com/CompanyDetail.aspx?symbol=KHPL)         | Medium           | Hydro Power                  |   670    |             0 |     -1    |
 | [SCB](https://merolagani.com/CompanyDetail.aspx?symbol=SCB)           | Medium           | Commercial Banks             |   683    |             0 |      6.5  |
+| [NABBC](https://merolagani.com/CompanyDetail.aspx?symbol=NABBC)       | Medium           | Development Bank Limited     |   688    |             0 |     -1    |
 | [EBL](https://merolagani.com/CompanyDetail.aspx?symbol=EBL)           | Medium           | Commercial Banks             |   727    |             0 |      5    |
 | [FMDBL](https://merolagani.com/CompanyDetail.aspx?symbol=FMDBL)       | Medium           | Microfinance                 |   733    |             0 |      9    |
 | [CGH](https://merolagani.com/CompanyDetail.aspx?symbol=CGH)           | Medium           | Hotels And Tourism           |   749    |             0 |      5    |
@@ -243,7 +240,6 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [NMIC](https://merolagani.com/CompanyDetail.aspx?symbol=NMIC)         | Medium           | Non-Life Insurance           |   802.5  |             0 |     -1    |
 | [LICN](https://merolagani.com/CompanyDetail.aspx?symbol=LICN)         | Medium           | Life Insurance               |   810    |             0 |     10    |
 | [SNORL](https://merolagani.com/CompanyDetail.aspx?symbol=SNORL)       | Medium           | Hydro Power                  |   814    |             0 |     10    |
-| [SABBL](https://merolagani.com/CompanyDetail.aspx?symbol=SABBL)       | Medium           | Development Bank Limited     |   834    |             0 |     -1    |
 | [SLBSL](https://merolagani.com/CompanyDetail.aspx?symbol=SLBSL)       | Medium           | Microfinance                 |   887    |             0 |     -1    |
 | [KBSH](https://merolagani.com/CompanyDetail.aspx?symbol=KBSH)         | Medium           | Hydro Power                  |   892    |             0 |     18    |
 | [GMLI](https://merolagani.com/CompanyDetail.aspx?symbol=GMLI)         | Medium           | Life Insurance               |   919.6  |             0 |     -1    |
@@ -293,9 +289,13 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [MCHL](https://merolagani.com/CompanyDetail.aspx?symbol=MCHL)         | Weak             | Hydro Power                  |   256    |             0 |     -1    |
 | [BEDC](https://merolagani.com/CompanyDetail.aspx?symbol=BEDC)         | Weak             | Hydro Power                  |   297    |             0 |     -1    |
 | [HEIP](https://merolagani.com/CompanyDetail.aspx?symbol=HEIP)         | Weak             | Promotor Share               |   315    |             0 |     -1    |
+| [PFL](https://merolagani.com/CompanyDetail.aspx?symbol=PFL)           | Weak             | Finance                      |   336    |             0 |     -1    |
 | [TSHL](https://merolagani.com/CompanyDetail.aspx?symbol=TSHL)         | Weak             | Hydro Power                  |   341.5  |             0 |     -1    |
 | [AHL](https://merolagani.com/CompanyDetail.aspx?symbol=AHL)           | Weak             | Hydro Power                  |   378    |             0 |     -1    |
+| [PROFL](https://merolagani.com/CompanyDetail.aspx?symbol=PROFL)       | Weak             | Finance                      |   385.3  |             0 |      6    |
+| [SINDU](https://merolagani.com/CompanyDetail.aspx?symbol=SINDU)       | Weak             | Development Bank Limited     |   412    |             0 |     -1    |
 | [BHPL](https://merolagani.com/CompanyDetail.aspx?symbol=BHPL)         | Weak             | Hydro Power                  |   425    |             0 |     -1    |
+| [RLFL](https://merolagani.com/CompanyDetail.aspx?symbol=RLFL)         | Weak             | Finance                      |   429.8  |             0 |     -1    |
 | [YMHL](https://merolagani.com/CompanyDetail.aspx?symbol=YMHL)         | Weak             | Hydro Power                  |   458    |             0 |     -1    |
 | [BUNGAL](https://merolagani.com/CompanyDetail.aspx?symbol=BUNGAL)     | Weak             | Hydro Power                  |   470    |             0 |     -1    |
 | [NFS](https://merolagani.com/CompanyDetail.aspx?symbol=NFS)           | Weak             | Finance                      |   503    |             0 |     22    |
@@ -307,12 +307,12 @@ _Last updated: 2026-10-31 21:40 NPT · Source: merolagani.com · 310 companies r
 | [BANDIPUR](https://merolagani.com/CompanyDetail.aspx?symbol=BANDIPUR) | Weak             | Hotels And Tourism           |   579.9  |             0 |     -1    |
 | [APHL](https://merolagani.com/CompanyDetail.aspx?symbol=APHL)         | Weak             | Hydro Power                  |   584.6  |             0 |     -1    |
 | [HIMSTAR](https://merolagani.com/CompanyDetail.aspx?symbol=HIMSTAR)   | Weak             | Hydro Power                  |   621.2  |             0 |     -1    |
-| [NABBC](https://merolagani.com/CompanyDetail.aspx?symbol=NABBC)       | Weak             | Development Bank Limited     |   688    |             0 |     -1    |
 | [BENH](https://merolagani.com/CompanyDetail.aspx?symbol=BENH)         | Weak             | Hydro Power                  |   709.7  |             0 |     -1    |
 | [SKHEL](https://merolagani.com/CompanyDetail.aspx?symbol=SKHEL)       | Weak             | Hydro Power                  |   779.2  |             0 |     -1    |
 | [OMPL](https://merolagani.com/CompanyDetail.aspx?symbol=OMPL)         | Weak             | Manufacturing And Processing |   816    |             0 |     -1    |
 | [TRH](https://merolagani.com/CompanyDetail.aspx?symbol=TRH)           | Weak             | Hotels And Tourism           |   816.7  |             0 |     -1    |
 | [NRIC](https://merolagani.com/CompanyDetail.aspx?symbol=NRIC)         | Weak             | Others                       |   824.9  |             0 |     -1    |
+| [SABBL](https://merolagani.com/CompanyDetail.aspx?symbol=SABBL)       | Weak             | Development Bank Limited     |   834    |             0 |     -1    |
 | [SHINED](https://merolagani.com/CompanyDetail.aspx?symbol=SHINED)     | Weak             | Corporate Debenture          |  1160    |             0 |     -1    |
 | [NRN](https://merolagani.com/CompanyDetail.aspx?symbol=NRN)           | Weak             | Investment                   |  1380    |             0 |     40    |
 | [SAGAR](https://merolagani.com/CompanyDetail.aspx?symbol=SAGAR)       | Weak             | Manufacturing And Processing |  1553    |             0 |     -1    |
