@@ -2,7 +2,7 @@
 
 Daily NEPSE stock screener — auto-ranks Nepal Stock Exchange stocks by undervalued fundamentals and bonus history.
 
-_Last updated: 2026-11-21 23:35 NPT · Source: merolagani.com · 310 companies ranked_
+_Last updated: 2026-11-22 23:53 NPT · Source: merolagani.com · 310 companies ranked_
 
 | Undervalued = P/E and P/BV below sector median | Ratios Summary: Strong = profitable and cheap vs sector |
 
@@ -165,7 +165,6 @@ _Last updated: 2026-11-21 23:35 NPT · Source: merolagani.com · 310 companies r
 | [HDL](https://merolagani.com/CompanyDetail.aspx?symbol=HDL)           | Medium           | Manufacturing And Processing |  1317    |             1 |     20    |
 | [SMFBS](https://merolagani.com/CompanyDetail.aspx?symbol=SMFBS)       | Medium           | Microfinance                 |  1400    |             1 |     -1    |
 | [GLBSL](https://merolagani.com/CompanyDetail.aspx?symbol=GLBSL)       | Medium           | Microfinance                 |  1410    |             1 |      9.5  |
-| [SMB](https://merolagani.com/CompanyDetail.aspx?symbol=SMB)           | Medium           | Microfinance                 |  1734    |             1 |      9.5  |
 | [CHDC](https://merolagani.com/CompanyDetail.aspx?symbol=CHDC)         | Medium           | Investment                   |  2199.8  |             1 |     11    |
 | [UNL](https://merolagani.com/CompanyDetail.aspx?symbol=UNL)           | Medium           | Manufacturing And Processing | 48000    |             1 |     -1    |
 | [NIMBPO](https://merolagani.com/CompanyDetail.aspx?symbol=NIMBPO)     | Weak             | Promotor Share               |   150    |             1 |     -1    |
@@ -263,6 +262,7 @@ _Last updated: 2026-11-21 23:35 NPT · Source: merolagani.com · 310 companies r
 | [SYPNL](https://merolagani.com/CompanyDetail.aspx?symbol=SYPNL)       | Medium           | Manufacturing And Processing |  1236    |             0 |     -1    |
 | [SWASTIK](https://merolagani.com/CompanyDetail.aspx?symbol=SWASTIK)   | Medium           | Microfinance                 |  1487    |             0 |     -1    |
 | [CIT](https://merolagani.com/CompanyDetail.aspx?symbol=CIT)           | Medium           | Investment                   |  1700    |             0 |      5    |
+| [SMB](https://merolagani.com/CompanyDetail.aspx?symbol=SMB)           | Medium           | Microfinance                 |  1734    |             0 |      9.5  |
 | [ULBSL](https://merolagani.com/CompanyDetail.aspx?symbol=ULBSL)       | Medium           | Microfinance                 |  2509.9  |             0 |     61.75 |
 | [ANLB](https://merolagani.com/CompanyDetail.aspx?symbol=ANLB)         | Medium           | Microfinance                 |  4819    |             0 |     14.25 |
 | [HLICF](https://merolagani.com/CompanyDetail.aspx?symbol=HLICF)       | Weak             | Mutual Fund                  |     8.54 |             0 |     -1    |
